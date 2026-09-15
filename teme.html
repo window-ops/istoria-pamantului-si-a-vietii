@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ro">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Temele mele &middot; Istoria Pământului și a Vieții</title>
+    <link rel="icon" href="assets/icoane/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="assets/css/stil.css">
+    <link rel="stylesheet" href="assets/css/responsiv.css">
+    <link rel="stylesheet" href="assets/css/tipar.css" media="print">
+    <script src="assets/js/pornire.js"></script>
+  </head>
+  <body class="pagina-teme">
+    <a class="sari" href="#lista">Sari la listă</a>
+    <header class="bara">
+      <a class="acasa icon" href="index.html" aria-label="Cuprinsul manualului" title="Cuprinsul manualului"><img class="ico" src="assets/icoane/acasa.svg" alt=""></a>
+      <div class="bara-titlu">
+        <span class="bara-lectie">Evidența lucrului</span>
+      </div>
+      <div class="bara-unelte">
+        <button type="button" id="buton-cauta" class="icon" aria-label="Caută în manual" title="Caută în manual"><img class="ico" src="assets/icoane/cauta.svg" alt=""></button>
+        <button type="button" id="buton-setari" class="icon" aria-label="Setări de citire" title="Setări de citire"><img class="ico" src="assets/icoane/setari.svg" alt=""></button>
+      </div>
+    </header>
+    <main class="index">
+      <section class="coperta">
+        <h1>Temele mele</h1>
+        <p class="coperta-text">Pagina arată ce lecții ai marcat ca parcurse și la ce teme ai
+        scris. Ștergerea textului dintr-un spațiu de temă, fie manual, fie cu butonul de mai jos,
+        anulează tema și o readuce în lista celor nescrise.</p>
+        <div class="coperta-butoane">
+          <button type="button" class="buton" id="teme-salveaza">Salvează răspunsurile în fișier</button>
+          <button type="button" class="buton" id="teme-incarca">Încarcă răspunsurile din fișier</button>
+        </div>
+        <p class="mic" id="teme-avertisment"></p>
+        <div class="filtre" role="group" aria-label="Filtrează lista">
+          <button type="button" data-filtru="toate" aria-pressed="true">Toate</button>
+          <button type="button" data-filtru="scrise">Cu temă scrisă</button>
+          <button type="button" data-filtru="nescrise">Fără temă</button>
+          <button type="button" data-filtru="citite">Parcurse</button>
+          <button type="button" data-filtru="necitite">Neparcurse</button>
+        </div>
+      </section>
+      <section id="lista" class="evidenta">
+        <table class="evidenta-tabel">
+          <thead>
+            <tr>
+              <th scope="col">Lecția</th>
+              <th scope="col">Parcursă</th>
+              <th scope="col">Temă</th>
+              <th scope="col">Acțiune</th>
+            </tr>
+          </thead>
+          <tbody id="evidenta-corp"></tbody>
+        </table>
+      </section>
+    </main>
+    <script src="assets/js/stocare.js"></script>
+    <script src="assets/js/setari.js"></script>
+    <script src="assets/js/index-cautare.js"></script>
+    <script src="assets/js/cautare.js"></script>
+    <script src="assets/js/lectie.js"></script>
+    <script src="assets/js/evidenta.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1544 @@
+[
+  {
+    "uid": "front",
+    "unitate": "Deschidere",
+    "slug": "00-prefata",
+    "titlu": "Prefață",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "De ce a fost rescrisă cartea",
+        "id": "de-ce-a-fost-rescrisa-cartea"
+      },
+      {
+        "nivel": 2,
+        "text": "Standardul de fapt",
+        "id": "standardul-de-fapt"
+      },
+      {
+        "nivel": 2,
+        "text": "Legătura cu biologia",
+        "id": "legatura-cu-biologia"
+      },
+      {
+        "nivel": 2,
+        "text": "Cum este construită cartea",
+        "id": "cum-este-construita-cartea"
+      },
+      {
+        "nivel": 2,
+        "text": "Ce nu acoperă manualul",
+        "id": "ce-nu-acopera-manualul"
+      }
+    ]
+  },
+  {
+    "uid": "front",
+    "unitate": "Deschidere",
+    "slug": "01-lectia-0",
+    "titlu": "Lecția 0: Cum se află vârsta unei roci",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Ordinea straturilor",
+        "id": "1-ordinea-straturilor"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Corelarea prin fosile",
+        "id": "2-corelarea-prin-fosile"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Ceasurile radioactive",
+        "id": "3-ceasurile-radioactive"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: timpul de înjumătățire",
+        "id": "concept-timpul-de-injumatatire"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Ce se datează de fapt",
+        "id": "4-ce-se-dateaza-de-fapt"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: vârsta unui strat cu fosile",
+        "id": "dovada-varsta-unui-strat-cu-fosile"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Unde se pun limitele",
+        "id": "5-unde-se-pun-limitele"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: scara timpului geologic",
+        "id": "sursa-scara-timpului-geologic"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Ce nu spun rocile",
+        "id": "6-ce-nu-spun-rocile"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: care este cea mai veche urmă de viață",
+        "id": "interpretare-care-este-cea-mai-veche-urma-de-viata"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: sunt urme biologice",
+        "id": "citirea-a-sunt-urme-biologice"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: dovada este nesigură",
+        "id": "citirea-b-dovada-este-nesigura"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Tabelul metodelor",
+        "id": "7-tabelul-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u1",
+    "unitate": "Unitatea I. Hadeanul (4.567-4.031 de milioane de ani)",
+    "slug": "02-lectia-1-1",
+    "titlu": "Lecția 1.1: Formarea sistemului solar și a Pământului",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Norul din care a ieșit sistemul solar",
+        "id": "1-norul-din-care-a-iesit-sistemul-solar"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Primele solide și ceasul sistemului solar",
+        "id": "2-primele-solide-si-ceasul-sistemului-solar"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: vârsta sistemului solar",
+        "id": "dovada-varsta-sistemului-solar"
+      },
+      {
+        "nivel": 2,
+        "text": "3. De la praf la planete",
+        "id": "3-de-la-praf-la-planete"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: acreția",
+        "id": "concept-acretia"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Pământul se separă în straturi",
+        "id": "4-pamantul-se-separa-in-straturi"
+      },
+      {
+        "nivel": 2,
+        "text": "5. De ce vârsta Pământului se măsoară pe meteorite",
+        "id": "5-de-ce-varsta-pamantului-se-masoara-pe-meteorite"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: meteoritele ca documente",
+        "id": "sursa-meteoritele-ca-documente"
+      },
+      {
+        "nivel": 2,
+        "text": "6. De unde vine apa",
+        "id": "6-de-unde-vine-apa"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: apa Pământului a venit de departe sau s-a aflat aici de la început",
+        "id": "interpretare-apa-pamantului-a-venit-de-departe-sau-s-a-aflat"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: apa a fost adusă târziu",
+        "id": "citirea-a-apa-a-fost-adusa-tarziu"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: apa a intrat odată cu materialul de bază",
+        "id": "citirea-b-apa-a-intrat-odata-cu-materialul-de-baza"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Tabelul elementelor și al metodelor",
+        "id": "7-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u1",
+    "unitate": "Unitatea I. Hadeanul (4.567-4.031 de milioane de ani)",
+    "slug": "03-lectia-1-2",
+    "titlu": "Lecția 1.2: Luna, răcirea scoarței și primele oceane",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Impactul care a format Luna",
+        "id": "1-impactul-care-a-format-luna"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Când s-a format Luna",
+        "id": "2-cand-s-a-format-luna"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: vârsta satelitului",
+        "id": "dovada-varsta-satelitului"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Oceanul de magmă și prima scoarță",
+        "id": "3-oceanul-de-magma-si-prima-scoarta"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Cele mai vechi urme de apă lichidă",
+        "id": "4-cele-mai-vechi-urme-de-apa-lichida"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: izotopii oxigenului",
+        "id": "concept-izotopii-oxigenului"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Atmosfera Hadeanului",
+        "id": "5-atmosfera-hadeanului"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Bombardamentul de la sfârșitul Hadeanului",
+        "id": "6-bombardamentul-de-la-sfarsitul-hadeanului"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: a existat un val târziu de impacturi",
+        "id": "interpretare-a-existat-un-val-tarziu-de-impacturi"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: un vârf de bombardament",
+        "id": "citirea-a-un-varf-de-bombardament"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: o coadă lungă a acreției",
+        "id": "citirea-b-o-coada-lunga-a-acretiei"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Sfârșitul Hadeanului",
+        "id": "7-sfarsitul-hadeanului"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: limitele fixate printr-o cifră",
+        "id": "sursa-limitele-fixate-printr-o-cifra"
+      },
+      {
+        "nivel": 2,
+        "text": "8. Tabelul elementelor și al metodelor",
+        "id": "8-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u2",
+    "unitate": "Unitatea a II-a. Arhaicul (4.031-2.500 de milioane de ani)",
+    "slug": "04-lectia-2-1",
+    "titlu": "Lecția 2.1: Prima scoarță stabilă și începutul tectonicii",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Ce a rămas din Arhaic",
+        "id": "1-ce-a-ramas-din-arhaic"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: cratonul",
+        "id": "concept-cratonul"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Din ce era făcută scoarța veche",
+        "id": "2-din-ce-era-facuta-scoarta-veche"
+      },
+      {
+        "nivel": 2,
+        "text": "3. O manta mai caldă",
+        "id": "3-o-manta-mai-calda"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: temperatura mantalei arhaice",
+        "id": "dovada-temperatura-mantalei-arhaice"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Oceane și sedimente",
+        "id": "4-oceane-si-sedimente"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: articolul de geocronologie",
+        "id": "sursa-articolul-de-geocronologie"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Când a început tectonica plăcilor",
+        "id": "5-cand-a-inceput-tectonica-placilor"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: de când se mișcă plăcile",
+        "id": "interpretare-de-cand-se-misca-placile"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: plăcile se mișcau deja în Arhaic",
+        "id": "citirea-a-placile-se-miscau-deja-in-arhaic"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: scoarța era un capac imobil",
+        "id": "citirea-b-scoarta-era-un-capac-imobil"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Câmpul magnetic",
+        "id": "6-campul-magnetic"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Tabelul elementelor și al metodelor",
+        "id": "7-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u2",
+    "unitate": "Unitatea a II-a. Arhaicul (4.031-2.500 de milioane de ani)",
+    "slug": "05-lectia-2-2",
+    "titlu": "Lecția 2.2: Originea vieții și dovezile ei",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Ce se caută în rocă",
+        "id": "1-ce-se-cauta-in-roca"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Unde a apărut viața",
+        "id": "2-unde-a-aparut-viata"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: izvoare din adânc sau bazine de la suprafață",
+        "id": "interpretare-izvoare-din-adanc-sau-bazine-de-la-suprafata"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: izvoarele hidrotermale",
+        "id": "citirea-a-izvoarele-hidrotermale"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: bazinele de la suprafață",
+        "id": "citirea-b-bazinele-de-la-suprafata"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Lumea ARN",
+        "id": "3-lumea-arn"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: lumea ARN",
+        "id": "concept-lumea-arn"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Cât de veche este rădăcina comună",
+        "id": "4-cat-de-veche-este-radacina-comuna"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: vârsta ultimului strămoș comun",
+        "id": "dovada-varsta-ultimului-stramos-comun"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Urmele păstrate în roci",
+        "id": "5-urmele-pastrate-in-roci"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: articolul și replica",
+        "id": "sursa-articolul-si-replica"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Ce făceau primele organisme",
+        "id": "6-ce-faceau-primele-organisme"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Tabelul urmelor și al metodelor",
+        "id": "7-tabelul-urmelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u3",
+    "unitate": "Unitatea a III-a. Proterozoicul (2.500-538,8 milioane de ani)",
+    "slug": "06-lectia-3-1",
+    "titlu": "Lecția 3.1: Marea Oxidare",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Cum se știe că aerul avea puțin oxigen",
+        "id": "1-cum-se-stie-ca-aerul-avea-putin-oxigen"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: semnătura de sulf independentă de masă",
+        "id": "concept-semnatura-de-sulf-independenta-de-masa"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: momentul creșterii oxigenului",
+        "id": "dovada-momentul-cresterii-oxigenului"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Vulcanismul de la limita dintre eoni",
+        "id": "2-vulcanismul-de-la-limita-dintre-eoni"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: roiurile de filoane ca reper",
+        "id": "sursa-roiurile-de-filoane-ca-reper"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Glaciațiile huroniene",
+        "id": "3-glaciatiile-huroniene"
+      },
+      {
+        "nivel": 2,
+        "text": "4. De ce atunci",
+        "id": "4-de-ce-atunci"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: cauza creșterii oxigenului",
+        "id": "interpretare-cauza-cresterii-oxigenului"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: schimbarea vine din biologie",
+        "id": "citirea-a-schimbarea-vine-din-biologie"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: schimbarea vine din geologie",
+        "id": "citirea-b-schimbarea-vine-din-geologie"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Sfârșitul evenimentului",
+        "id": "5-sfarsitul-evenimentului"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Tabelul elementelor și al metodelor",
+        "id": "6-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u3",
+    "unitate": "Unitatea a III-a. Proterozoicul (2.500-538,8 milioane de ani)",
+    "slug": "07-lectia-3-2",
+    "titlu": "Lecția 3.2: Celula eucariotă și endosimbioza",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Două tipuri de celulă",
+        "id": "1-doua-tipuri-de-celula"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Organitele au fost odată bacterii",
+        "id": "2-organitele-au-fost-odata-bacterii"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: endosimbioza",
+        "id": "concept-endosimbioza"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Cine a fost gazda",
+        "id": "3-cine-a-fost-gazda"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: ruda cea mai apropiată a gazdei",
+        "id": "dovada-ruda-cea-mai-apropiata-a-gazdei"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Când au apărut eucariotele",
+        "id": "4-cand-au-aparut-eucariotele"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: vârsta primei celule cu nucleu",
+        "id": "interpretare-varsta-primei-celule-cu-nucleu"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: eucariotele sunt mai vechi decât fosilele acceptate",
+        "id": "citirea-a-eucariotele-sunt-mai-vechi-decat-fosilele-acceptat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: grupul se răspândește târziu",
+        "id": "citirea-b-grupul-se-raspandeste-tarziu"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Miliardul fără schimbări mari",
+        "id": "5-miliardul-fara-schimbari-mari"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Rodinia",
+        "id": "6-rodinia"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: reconstituirile paleogeografice",
+        "id": "sursa-reconstituirile-paleogeografice"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Tabelul elementelor și al metodelor",
+        "id": "7-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u3",
+    "unitate": "Unitatea a III-a. Proterozoicul (2.500-538,8 milioane de ani)",
+    "slug": "08-lectia-3-3",
+    "titlu": "Lecția 3.3: Criogenianul și fauna ediacarană",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Destrămarea Rodiniei",
+        "id": "1-destramarea-rodiniei"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Gheață la ecuator",
+        "id": "2-gheata-la-ecuator"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: Pământul bulgăre de zăpadă",
+        "id": "concept-pamantul-bulgare-de-zapada"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Ce a declanșat glaciația sturtiană",
+        "id": "3-ce-a-declansat-glaciatia-sturtiana"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: cauza primei glaciații criogeniene",
+        "id": "interpretare-cauza-primei-glaciatii-criogeniene"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: alterarea lavelor tropicale",
+        "id": "citirea-a-alterarea-lavelor-tropicale"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: emisia scăzută din dorsale",
+        "id": "citirea-b-emisia-scazuta-din-dorsale"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Apa care intră în manta",
+        "id": "4-apa-care-intra-in-manta"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Ediacaranul",
+        "id": "5-ediacaranul"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: Dickinsonia a fost animal",
+        "id": "dovada-dickinsonia-a-fost-animal"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Tabelul elementelor și al metodelor",
+        "id": "6-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u4",
+    "unitate": "Unitatea a IV-a. Paleozoicul (538,8-251,9 milioane de ani)",
+    "slug": "09-lectia-4-1",
+    "titlu": "Lecția 4.1: Cambrianul și Ordovicianul",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Ce se schimbă în rocă",
+        "id": "1-ce-se-schimba-in-roca"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Ritmul diversificării",
+        "id": "2-ritmul-diversificarii"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: zăcământul cu conservare excepțională",
+        "id": "concept-zacamantul-cu-conservare-exceptionala"
+      },
+      {
+        "nivel": 2,
+        "text": "3. De ce atunci",
+        "id": "3-de-ce-atunci"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: cauza diversificării cambriene",
+        "id": "interpretare-cauza-diversificarii-cambriene"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: pragul de oxigen",
+        "id": "citirea-a-pragul-de-oxigen"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: lanțul ecologic",
+        "id": "citirea-b-lantul-ecologic"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Ordovicianul",
+        "id": "4-ordovicianul"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Primele plante pe uscat",
+        "id": "5-primele-plante-pe-uscat"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: plantele pe uscat în Ordovician",
+        "id": "dovada-plantele-pe-uscat-in-ordovician"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Extincția de la sfârșitul Ordovicianului",
+        "id": "6-extinctia-de-la-sfarsitul-ordovicianului"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: bazele de date de fosile",
+        "id": "sursa-bazele-de-date-de-fosile"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Tabelul elementelor și al metodelor",
+        "id": "7-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u4",
+    "unitate": "Unitatea a IV-a. Paleozoicul (538,8-251,9 milioane de ani)",
+    "slug": "10-lectia-4-2",
+    "titlu": "Lecția 4.2: Silurianul și Devonianul",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Silurianul",
+        "id": "1-silurianul"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: planta vasculară",
+        "id": "concept-planta-vasculara"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Uscatul primește primii locuitori",
+        "id": "2-uscatul-primeste-primii-locuitori"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Devonianul și diversificarea peștilor",
+        "id": "3-devonianul-si-diversificarea-pestilor"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Când au ieșit tetrapodele pe uscat",
+        "id": "4-cand-au-iesit-tetrapodele-pe-uscat"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: vârsta primelor tetrapode",
+        "id": "interpretare-varsta-primelor-tetrapode"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: urmele arată tetrapode mai vechi",
+        "id": "citirea-a-urmele-arata-tetrapode-mai-vechi"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: urmele pot avea altă origine",
+        "id": "citirea-b-urmele-pot-avea-alta-origine"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Pădurile schimbă planeta",
+        "id": "5-padurile-schimba-planeta"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: existența unei păduri devoniene",
+        "id": "dovada-existenta-unei-paduri-devoniene"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Extincțiile devoniene",
+        "id": "6-extinctiile-devoniene"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: numele speciilor fosile",
+        "id": "sursa-numele-speciilor-fosile"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Tabelul elementelor și al metodelor",
+        "id": "7-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u4",
+    "unitate": "Unitatea a IV-a. Paleozoicul (538,8-251,9 milioane de ani)",
+    "slug": "11-lectia-4-3",
+    "titlu": "Lecția 4.3: Carboniferul și Permianul",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Carboniferul și cărbunele",
+        "id": "1-carboniferul-si-carbunele"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Oxigenul carbonifer",
+        "id": "2-oxigenul-carbonifer"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Amnioții se desprind de apă",
+        "id": "3-amniotii-se-desprind-de-apa"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: oul cu membrane",
+        "id": "concept-oul-cu-membrane"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Pangeea",
+        "id": "4-pangeea"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: existența unui supercontinent",
+        "id": "dovada-existenta-unui-supercontinent"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Permianul",
+        "id": "5-permianul"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Extincția de la sfârșitul Permianului",
+        "id": "6-extinctia-de-la-sfarsitul-permianului"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: mecanismul celei mai mari extincții",
+        "id": "interpretare-mecanismul-celei-mai-mari-extinctii"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: gazele vulcanice",
+        "id": "citirea-a-gazele-vulcanice"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: lanțul intern al oceanului",
+        "id": "citirea-b-lantul-intern-al-oceanului"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Tabelul elementelor și al metodelor",
+        "id": "7-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u5",
+    "unitate": "Unitatea a V-a. Mezozoicul (251,9-66 de milioane de ani)",
+    "slug": "12-lectia-5-1",
+    "titlu": "Lecția 5.1: Triasicul și Jurasicul",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Triasicul timpuriu",
+        "id": "1-triasicul-timpuriu"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Apar dinozaurii",
+        "id": "2-apar-dinozaurii"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: poziția membrelor",
+        "id": "concept-pozitia-membrelor"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Primele mamifere",
+        "id": "3-primele-mamifere"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Ruperea Pangeei",
+        "id": "4-ruperea-pangeei"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: ruperea unui continent",
+        "id": "dovada-ruperea-unui-continent"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Jurasicul",
+        "id": "5-jurasicul"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Păsările",
+        "id": "6-pasarile"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: ce înseamnă Archaeopteryx",
+        "id": "interpretare-ce-inseamna-archaeopteryx"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: o pasăre timpurie",
+        "id": "citirea-a-o-pasare-timpurie"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: un dinozaur cu pene printre alții",
+        "id": "citirea-b-un-dinozaur-cu-pene-printre-altii"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Tabelul elementelor și al metodelor",
+        "id": "7-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u5",
+    "unitate": "Unitatea a V-a. Mezozoicul (251,9-66 de milioane de ani)",
+    "slug": "13-lectia-5-2",
+    "titlu": "Lecția 5.2: Cretacicul și limita Cretacic-Paleogen",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Plantele cu flori",
+        "id": "1-plantele-cu-flori"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Mările cretacice",
+        "id": "2-marile-cretacice"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: creta",
+        "id": "concept-creta"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Stratul de la limită",
+        "id": "3-stratul-de-la-limita"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: legătura dintre un strat și un crater",
+        "id": "dovada-legatura-dintre-un-strat-si-un-crater"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Vulcanismul din India",
+        "id": "4-vulcanismul-din-india"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: cât a contat vulcanismul",
+        "id": "interpretare-cat-a-contat-vulcanismul"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: impactul explică dispariția",
+        "id": "citirea-a-impactul-explica-disparitia"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: vulcanismul a pregătit terenul",
+        "id": "citirea-b-vulcanismul-a-pregatit-terenul"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Ce a dispărut și ce a rămas",
+        "id": "5-ce-a-disparut-si-ce-a-ramas"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Tabelul elementelor și al metodelor",
+        "id": "6-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u6",
+    "unitate": "Unitatea a VI-a. Cenozoicul (66 de milioane de ani, până în prezent)",
+    "slug": "14-lectia-6-1",
+    "titlu": "Lecția 6.1: Paleogenul și Neogenul",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Mamiferele ocupă locurile libere",
+        "id": "1-mamiferele-ocupa-locurile-libere"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Încălzirea de la 56 de milioane de ani",
+        "id": "2-incalzirea-de-la-56-de-milioane-de-ani"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: o încălzire citită în sedimente",
+        "id": "dovada-o-incalzire-citita-in-sedimente"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Răcirea și calota antarctică",
+        "id": "3-racirea-si-calota-antarctica"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: cauza răcirii de la 34 de milioane de ani",
+        "id": "interpretare-cauza-racirii-de-la-34-de-milioane-de-ani"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: scăderea dioxidului de carbon",
+        "id": "citirea-a-scaderea-dioxidului-de-carbon"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: izolarea Antarcticii de curenți",
+        "id": "citirea-b-izolarea-antarcticii-de-curenti"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Pajiștile și animalele care pasc",
+        "id": "4-pajistile-si-animalele-care-pasc"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Uscarea Mediteranei",
+        "id": "5-uscarea-mediteranei"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: bazinul închis și evaporitele",
+        "id": "concept-bazinul-inchis-si-evaporitele"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Munții tineri",
+        "id": "6-muntii-tineri"
+      },
+      {
+        "nivel": 2,
+        "text": "7. Tabelul elementelor și al metodelor",
+        "id": "7-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u6",
+    "unitate": "Unitatea a VI-a. Cenozoicul (66 de milioane de ani, până în prezent)",
+    "slug": "15-lectia-6-2",
+    "titlu": "Lecția 6.2: Cuaternarul și genul Homo",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Ritmul glaciațiilor",
+        "id": "1-ritmul-glaciatiilor"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: ciclurile orbitale",
+        "id": "concept-ciclurile-orbitale"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Genul Homo",
+        "id": "2-genul-homo"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Ce se poate citi din obiecte",
+        "id": "3-ce-se-poate-citi-din-obiecte"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: gândirea simbolică înainte de scris",
+        "id": "dovada-gandirea-simbolica-inainte-de-scris"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Ce arată și ce nu arată vechimea oaselor",
+        "id": "4-ce-arata-si-ce-nu-arata-vechimea-oaselor"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: diviziunea muncii la vânători-culegători",
+        "id": "interpretare-diviziunea-muncii-la-vanatori-culegatori"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: împărțirea pe sexe a fost exagerată",
+        "id": "citirea-a-impartirea-pe-sexe-a-fost-exagerata"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: împărțirea există și se poate măsura",
+        "id": "citirea-b-impartirea-exista-si-se-poate-masura"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: unde se termină geologia",
+        "id": "sursa-unde-se-termina-geologia"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Dispariția animalelor mari",
+        "id": "5-disparitia-animalelor-mari"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Tabelul elementelor și al metodelor",
+        "id": "6-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "u6",
+    "unitate": "Unitatea a VI-a. Cenozoicul (66 de milioane de ani, până în prezent)",
+    "slug": "16-lectia-6-3",
+    "titlu": "Lecția 6.3: Biodiversitatea, clima și omul ca agent geologic",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Cât material mută omul",
+        "id": "1-cat-material-muta-omul"
+      },
+      {
+        "nivel": 4,
+        "text": "CONCEPT: agentul geologic",
+        "id": "concept-agentul-geologic"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Antropocenul",
+        "id": "2-antropocenul"
+      },
+      {
+        "nivel": 4,
+        "text": "SURSĂ: cum se ia o decizie de stratigrafie",
+        "id": "sursa-cum-se-ia-o-decizie-de-stratigrafie"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Dioxidul de carbon din aer",
+        "id": "3-dioxidul-de-carbon-din-aer"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Ritmul dispariției speciilor",
+        "id": "4-ritmul-disparitiei-speciilor"
+      },
+      {
+        "nivel": 4,
+        "text": "DOVADA: compararea ritmului actual cu fondul geologic",
+        "id": "dovada-compararea-ritmului-actual-cu-fondul-geologic"
+      },
+      {
+        "nivel": 4,
+        "text": "INTERPRETARE: este în curs o extincție în masă",
+        "id": "interpretare-este-in-curs-o-extinctie-in-masa"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce este documentat",
+        "id": "ce-este-documentat"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea A: evenimentul este în curs",
+        "id": "citirea-a-evenimentul-este-in-curs"
+      },
+      {
+        "nivel": 4,
+        "text": "Citirea B: pragul nu este atins",
+        "id": "citirea-b-pragul-nu-este-atins"
+      },
+      {
+        "nivel": 4,
+        "text": "Ce poate stabili elevul",
+        "id": "ce-poate-stabili-elevul"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Ce se vede peste un milion de ani",
+        "id": "5-ce-se-vede-peste-un-milion-de-ani"
+      },
+      {
+        "nivel": 2,
+        "text": "6. Tabelul elementelor și al metodelor",
+        "id": "6-tabelul-elementelor-si-al-metodelor"
+      },
+      {
+        "nivel": 2,
+        "text": "Activități și exerciții",
+        "id": "activitati-si-exercitii"
+      },
+      {
+        "nivel": 2,
+        "text": "Note",
+        "id": "note"
+      }
+    ]
+  },
+  {
+    "uid": "back",
+    "unitate": "Închidere",
+    "slug": "17-incheiere",
+    "titlu": "Încheiere",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Ce s-a putut măsura",
+        "id": "1-ce-s-a-putut-masura"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Ce a rămas deschis",
+        "id": "2-ce-a-ramas-deschis"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Ce nu a intrat în manual",
+        "id": "3-ce-nu-a-intrat-in-manual"
+      },
+      {
+        "nivel": 2,
+        "text": "4. De unde se continuă",
+        "id": "4-de-unde-se-continua"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Ediția următoare",
+        "id": "5-editia-urmatoare"
+      }
+    ]
+  },
+  {
+    "uid": "back",
+    "unitate": "Închidere",
+    "slug": "18-anexa",
+    "titlu": "Anexă: scara timpului și dicționarul de termeni",
+    "toc": [
+      {
+        "nivel": 2,
+        "text": "1. Eonii și erele",
+        "id": "1-eonii-si-erele"
+      },
+      {
+        "nivel": 2,
+        "text": "2. Perioadele Fanerozoicului",
+        "id": "2-perioadele-fanerozoicului"
+      },
+      {
+        "nivel": 2,
+        "text": "3. Epocile Cuaternarului",
+        "id": "3-epocile-cuaternarului"
+      },
+      {
+        "nivel": 2,
+        "text": "4. Dicționar de termeni",
+        "id": "4-dictionar-de-termeni"
+      },
+      {
+        "nivel": 2,
+        "text": "5. Cum se citește o vârstă din manual",
+        "id": "5-cum-se-citeste-o-varsta-din-manual"
+      }
+    ]
+  }
+]
