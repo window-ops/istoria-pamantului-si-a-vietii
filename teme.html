@@ -26,13 +26,14 @@
       <section class="coperta">
         <h1>Temele mele</h1>
         <p class="coperta-text">Pagina arată ce lecții ai marcat ca parcurse și la ce teme ai
-        scris. Ștergerea textului dintr-un spațiu de temă, fie manual, fie cu butonul de mai jos,
-        anulează tema și o readuce în lista celor nescrise.</p>
+          scris. Ștergerea textului dintr-un spațiu de temă, fie manual, fie cu butonul de mai jos,
+          anulează tema și o readuce în lista celor nescrise.</p>
         <div class="coperta-butoane">
           <button type="button" class="buton" id="teme-salveaza">Salvează răspunsurile în fișier</button>
           <button type="button" class="buton" id="teme-incarca">Încarcă răspunsurile din fișier</button>
         </div>
-        <p class="mic" id="teme-avertisment"></p>
+        <p class="mic" id="teme-avertisment">
+        </p>
         <div class="filtre" role="group" aria-label="Filtrează lista">
           <button type="button" data-filtru="toate" aria-pressed="true">Toate</button>
           <button type="button" data-filtru="scrise">Cu temă scrisă</button>
@@ -51,7 +52,8 @@
               <th scope="col">Acțiune</th>
             </tr>
           </thead>
-          <tbody id="evidenta-corp"></tbody>
+          <tbody id="evidenta-corp">
+          </tbody>
         </table>
       </section>
     </main>
