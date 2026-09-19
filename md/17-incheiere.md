@@ -4,7 +4,7 @@ Manualul a parcurs 4,5 miliarde de ani în șaptesprezece lecții. Ce rămâne d
 
 ## 1. Ce s-a putut măsura
 
-Vârsta sistemului solar se cunoaște cu o precizie de sub un milion de ani, dintr-o incluziune de câțiva milimetri. Vârsta Pământului vine din meteorite, fiindcă rocile primei sute de milioane de ani au dispărut. Limitele dintre perioade sunt convenții, fixate în puncte de teren sau prin cifre votate.
+Vârsta sistemului solar se cunoaște cu o precizie de sub un milion de ani, dintr-o incluziune minerală de câțiva milimetri. Vârsta Pământului vine din meteorite, fiindcă rocile primei sute de milioane de ani au dispărut. Limitele dintre perioade sunt convenții, fixate în puncte de teren sau prin cifre votate.
 
 Din aceste repere se construiește restul: momentul în care oxigenul a intrat în atmosferă, durata unei glaciații, viteza cu care s-a petrecut cea mai mare dispariție cunoscută.
 
@@ -26,11 +26,11 @@ Fiecare lecție a cuprins cel puțin o casetă INTERPRETARE. Adunate, ele arată
 - cât de rigidă era împărțirea muncii la vânători-culegători;
 - dacă ritmul actual al dispariției speciilor formează o extincție în masă.
 
-Aceste întrebări nu sunt lacune ale manualului. Ele sunt starea disciplinei în anul redactării, iar unele dintre ele se vor închide în timpul vieții cititorului.
+Ele arată starea disciplinei în anul redactării, iar unele se vor închide în timpul vieții cititorului.
 
 ## 3. Ce nu a intrat în manual
 
-Mineralogia și petrografia au apărut numai cât era nevoie pentru a citi o rocă. Paleontologia a fost folosită pentru mediu și pentru datare, fără descrieri de specii. Geologia aplicată, adică resursele, apa subterană, riscul seismic și alunecările de teren, cere un curs propriu.
+Mineralogia și petrografia au apărut numai cât era nevoie pentru a citi o rocă. Paleontologia a fost folosită pentru mediu și pentru datare, fără descrieri de specii. Geologia aplicată, adică resursele, apa subterană, riscul seismic și alunecările de teren, are nevoie de un curs propriu.
 
 Geologia României a fost atinsă doar la Carpați și la bazinele rămase din marea care acoperea sudul și estul Europei. O ediție viitoare ar putea adăuga o unitate despre teritoriul pe care se află cititorul.
 
@@ -40,10 +40,10 @@ Scara timpului folosită aici se actualizează de mai multe ori pe deceniu și s
 
 Documentarul „The Whole History of the Earth and Life”, din 2020, de la care a pornit prima ediție a acestui manual, rămâne util pentru scara la care lucrează și pentru animații. Cine îl privește după parcurgerea manualului poate recunoaște singur pasajele unde grupul care l-a produs își prezintă propriul model ca pe un fapt stabilit.
 
-Articolele citate în acest manual sunt accesibile mai ușor decât pare. O parte dintre ele au apărut în acces liber, iar rezumatele sunt de obicei deschise.
+O parte dintre articolele citate au apărut în acces liber, iar rezumatele sunt de obicei deschise.
 
 ## 5. Ediția următoare
 
-Un manual care își declară metoda poate fi verificat împotriva propriilor reguli. Cine găsește o vârstă depășită, o atribuire greșită sau o afirmație fără sursă găsește o eroare, iar eroarea se corectează în ediția următoare.
+Un manual care își declară metoda poate fi verificat după propriile reguli. Cine găsește o vârstă depășită, o atribuire greșită sau o afirmație fără sursă găsește o eroare, iar eroarea se corectează în ediția următoare.
 
 Prima ediție a acestei cărți a fost scrisă în 2025 pe un singur material și a ajuns să conțină erori de fapt. Ediția de față se sprijină pe surse numite, pe reguli scrise și pe verificări automate, și va fi la rândul ei depășită.

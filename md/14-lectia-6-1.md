@@ -18,7 +18,7 @@ La limita dintre Paleocen și Eocen, temperatura medie globală crește cu 5 pâ
 
 > #### DOVADA: o încălzire citită în sedimente
 >
-> **Ce se observă:** în foraje marine, un interval de câteva zeci de centimetri în care calcarul se subțiază sau lipsește, iar fauna de pe fundul mării se schimbă brusc.
+> **Ce se observă:** în foraje marine[^1], un interval de câteva zeci de centimetri în care calcarul se subțiază sau lipsește, iar fauna de pe fundul mării se schimbă brusc.
 >
 > **Ce se măsoară:** raportul izotopilor de carbon și de oxigen din cochiliile de foraminifere, împreună cu grosimea intervalului, datată prin ciclurile lente ale orbitei Pământului, care lasă în sedimente alternanțe regulate.
 >
@@ -30,13 +30,13 @@ Revenirea la starea dinainte durează în jur de 200 de mii de ani. Raportul gru
 
 ## 3. Răcirea și calota antarctică
 
-La 34 de milioane de ani, la limita dintre Eocen și Oligocen, clima se răcește în două trepte apropiate, iar pe Antarctica se formează o calotă de gheață întinsă.
+La 34 de milioane de ani, la limita dintre Eocen și Oligocen, clima se răcește în două trepte apropiate, iar pe Antarctica se formează o calotă de gheață întinsă[^2].
 
 > #### INTERPRETARE: cauza răcirii de la 34 de milioane de ani
 >
 > #### Ce este documentat
 >
-> Măsurătorile pe cochilii de foraminifere de pe fundul mării[^1] arată creșterea volumului de gheață în două etape, la circa 34,1-33,9 și la 33,8-33,6 milioane de ani. În același interval, concentrația de dioxid de carbon scade sub un prag calculat de modele climatice.
+> Măsurătorile pe cochilii de foraminifere de pe fundul mării[^3] arată creșterea volumului de gheață în două etape, la circa 34,1-33,9 și la 33,8-33,6 milioane de ani. În același interval, concentrația de dioxid de carbon scade sub un prag calculat de modele climatice.
 >
 > Tot atunci se deschid două treceri oceanice în jurul Antarcticii, între ea și America de Sud și între ea și Australia.
 >
@@ -58,7 +58,7 @@ La 34 de milioane de ani, la limita dintre Eocen și Oligocen, clima se răceșt
 
 Între aceste schimbări se află un interval mai cald, în jurul valorii de 15 milioane de ani, numit optimul climatic miocen. Gheața antarctică se reduce atunci, iar pădurile înaintează din nou spre latitudini mari.
 
-Ierburile conțin particule dure de silice, care tocesc dinții. La ierbivorele din această perioadă apar dinți înalți, cu coroană lungă, care rezistă mai mulți ani de uzură.
+Ierburile conțin particule dure de silice[^4], care tocesc dinții. La ierbivorele din această perioadă apar dinți înalți, cu coroană lungă, care rezistă mai mulți ani de uzură.
 
 Între 8 și 3 milioane de ani se răspândesc ierburile cu un mod de fotosinteză potrivit pentru aer sărac în dioxid de carbon și pentru climă caldă. Schimbarea se citește în compoziția izotopică a smalțului dentar al animalelor care le pășteau.
 
@@ -66,7 +66,7 @@ Ierburile conțin particule dure de silice, care tocesc dinții. La ierbivorele 
 
 > #### CONCEPT: bazinul închis și evaporitele
 >
-> Când legătura dintre o mare și oceanul deschis se închide, iar evaporarea depășește aportul de apă, nivelul scade și sărurile se depun pe fund, în ordinea solubilității lor: întâi gipsul[^2], apoi sarea gemă.
+> Când legătura dintre o mare și oceanul deschis se închide, iar evaporarea depășește aportul de apă, nivelul scade și sărurile se depun pe fund, în ordinea solubilității lor: întâi gipsul[^5], apoi sarea gemă.
 >
 > Astfel de depozite se numesc evaporite. Grosimea lor arată cât de mult s-a evaporat, iar poziția lor în succesiune arată cât a durat închiderea.
 
@@ -112,6 +112,12 @@ _______________________________________________________________
 
 ## Note
 
-[^1]: Foraminiferele sunt organisme unicelulare marine cu cochilie calcaroasă, de obicei sub un milimetru. Cochiliile lor se adună pe fundul mării și formează straturi de calcar.
+[^1]: Forajul este gaura săpată în scoarță sau în gheață pentru a scoate probe din adâncime. Proba cilindrică rezultată se numește carotă și păstrează ordinea straturilor.
 
-[^2]: Gipsul este o sare de calciu care se depune din apa de mare la începutul evaporării, înaintea sării de bucătărie. Se folosește astăzi la fabricarea ipsosului.
+[^2]: Calota glaciară este masa de gheață care acoperă continuu o suprafață mare de uscat, precum Antarctica și Groenlanda de astăzi. Se deosebește de ghețarii de vale prin întindere și prin grosime.
+
+[^3]: Foraminiferele sunt organisme unicelulare marine cu cochilie calcaroasă, de obicei sub un milimetru. Cochiliile lor se adună pe fundul mării și formează straturi întregi de calcar.
+
+[^4]: Silicea este dioxidul de siliciu, substanța din care sunt alcătuite cuarțul și nisipul obișnuit. Plantele o pot depune în țesuturi sub formă de particule dure.
+
+[^5]: Gipsul este o sare de calciu care se depune din apa de mare la începutul evaporării, înaintea sării de bucătărie. Se folosește astăzi la fabricarea ipsosului.

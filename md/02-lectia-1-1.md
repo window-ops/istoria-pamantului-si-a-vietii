@@ -14,11 +14,11 @@ Norul s-a contractat sub propria greutate și s-a turtit într-un disc care se r
 
 ## 2. Primele solide și ceasul sistemului solar
 
-În unele meteorite se găsesc incluziuni bogate în calciu și aluminiu, de câțiva milimetri, formate prin condensarea gazului fierbinte din disc. Ele sunt cele mai vechi solide cunoscute din sistemul solar, iar vârsta lor este luată drept vârsta sistemului.
+În unele meteorite se găsesc incluziuni bogate în calciu și aluminiu[^3], de câțiva milimetri, formate prin condensarea gazului fierbinte din disc. Ele sunt cele mai vechi solide cunoscute din sistemul solar, iar vârsta lor este luată drept vârsta sistemului.
 
 > #### DOVADA: vârsta sistemului solar
 >
-> **Ce se observă:** incluziuni albe, bogate în calciu și aluminiu, în meteorite de tip condrită, și condrule[^3] în aceeași rocă.
+> **Ce se observă:** incluziuni albe, bogate în calciu și aluminiu, în meteorite de tip condrită, și condrule[^4] în aceeași rocă.
 >
 > **Ce se măsoară:** raportul dintre uraniu și plumb în aceste incluziuni, prin metoda plumb-plumb, care folosește ambii izotopi ai uraniului.
 >
@@ -54,9 +54,9 @@ Cifrele depind de o presupunere: cât de complet se amestecă metalul unui corp 
 
 ## 5. De ce vârsta Pământului se măsoară pe meteorite
 
-Scoarța se reciclează prin tectonică, iar rocile din primele sute de milioane de ani au dispărut aproape complet. Cea mai veche rocă datată are în jur de 4 miliarde de ani. Cel mai vechi mineral cunoscut este un cristal de zircon din dealurile Jack Hills[^4], în Australia de Vest, cu circa 4,4 miliarde de ani.
+Scoarța se reciclează prin tectonică, iar rocile din primele sute de milioane de ani au dispărut aproape complet. Cea mai veche rocă datată are în jur de 4 miliarde de ani. Cel mai vechi mineral cunoscut este un cristal de zircon din dealurile Jack Hills[^5], în Australia de Vest, cu circa 4,4 miliarde de ani.
 
-Vârsta planetei se obține indirect. Meteoritele nediferențiate păstrează compoziția materiei din care s-au format planetele. Raportul izotopilor de plumb din ele se compară cu cel din rocile terestre, iar diferența dă momentul în care Pământul a încetat să mai schimbe materie cu discul.
+Vârsta planetei se obține indirect. Meteoritele nediferențiate, care nu s-au topit și nu s-au separat în straturi, păstrează compoziția materiei din care s-au format planetele. Raportul izotopilor de plumb din ele se compară cu cel din rocile terestre, iar diferența dă momentul în care Pământul a încetat să mai schimbe materie cu discul.
 
 Măsurătoarea publicată de Clair Patterson în 1956 a dat 4,55 miliarde de ani, iar valoarea folosită astăzi este de 4,54 miliarde de ani, cu o marjă de 0,05 miliarde.
 
@@ -72,11 +72,11 @@ Măsurătoarea publicată de Clair Patterson în 1956 a dat 4,55 miliarde de ani
 >
 > #### Ce este documentat
 >
-> Apa conține și hidrogen obișnuit, și deuteriu[^5]. Raportul dintre cele două se măsoară în apa oceanelor, în meteorite și în comete, iar valorile diferă de la o categorie la alta.
+> Apa conține și hidrogen obișnuit, și deuteriu[^6]. Raportul dintre cele două se măsoară în apa oceanelor, în meteorite și în comete, iar valorile diferă de la o categorie la alta.
 >
 > Condritele carbonoase, formate departe de Soare, au un raport apropiat de cel al oceanelor. Cometele măsurate dau valori împrăștiate, unele de câteva ori mai mari.
 >
-> Condritele cu enstatit[^6] s-au format aproape de Soare și au o compoziție apropiată de a Pământului. Multă vreme au fost considerate uscate, iar măsurătorile publicate în 2020 au găsit în ele hidrogen cât pentru de trei ori masa oceanelor actuale.
+> Condritele cu enstatit[^7] s-au format aproape de Soare și au o compoziție apropiată de a Pământului. Multă vreme au fost considerate uscate, iar măsurătorile publicate în 2020 au găsit în ele hidrogen cât pentru de trei ori masa oceanelor actuale.
 >
 > #### Citirea A: apa a fost adusă târziu
 >
@@ -126,10 +126,12 @@ _______________________________________________________________
 
 [^2]: Silicații sunt mineralele formate din siliciu și oxigen, împreună cu alte elemente. Alcătuiesc cea mai mare parte a scoarței și a mantalei.
 
-[^3]: Condrulele sunt boabe sferice de silicați, de ordinul milimetrului, topite și răcite rapid în discul din jurul Soarelui. Meteoritele care le conțin se numesc condrite.
+[^3]: Incluziunile sunt corpuri străine, solide, lichide sau gazoase, prinse în interiorul unui mineral sau al unei roci la formarea acesteia. Compoziția lor păstrează condițiile din momentul formării, motiv pentru care se folosesc la datare și la reconstituirea mediilor vechi.
 
-[^4]: Zirconul este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.
+[^4]: Condrulele sunt boabe sferice de silicați, de ordinul milimetrului, topite și răcite rapid în discul din jurul Soarelui. Meteoritele care le conțin se numesc condrite.
 
-[^5]: Deuteriul este forma grea a hidrogenului, cu un neutron în nucleu. Raportul dintre deuteriu și hidrogenul obișnuit diferă de la un corp ceresc la altul și se folosește pentru a compara sursele de apă.
+[^5]: Zirconul este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.
 
-[^6]: Enstatitul este un silicat de magneziu sărac în fier, care se formează la temperaturi ridicate. Condritele care îl conțin în cantitate mare se numesc condrite cu enstatit.
+[^6]: Deuteriul este forma grea a hidrogenului, cu un neutron în nucleu. Raportul dintre deuteriu și hidrogenul obișnuit diferă de la un corp ceresc la altul și se folosește pentru a compara sursele de apă.
+
+[^7]: Enstatitul este un silicat de magneziu sărac în fier, care se formează la temperaturi ridicate. Condritele care îl conțin în cantitate mare se numesc condrite cu enstatit.

@@ -14,7 +14,7 @@ Gheața a înaintat și s-a retras de zeci de ori în ultimele două milioane de
 >
 > Aceste schimbări modifică repartiția luminii solare pe latitudini și pe anotimpuri, fără să modifice mult cantitatea totală primită. Când verile din nordul emisferei nordice rămân reci, zăpada căzută iarna nu se topește complet, iar gheața se adună de la un an la altul.
 
-Confirmarea vine din foraje. Carotele de gheață din Antarctica acoperă ultimii 800 de mii de ani, iar sedimentele marine acoperă tot Cuaternarul; amândouă arată aceleași perioade regăsite în calculele astronomice.
+Confirmarea vine din foraje. Carotele de gheață[^2] din Antarctica acoperă ultimii 800 de mii de ani, iar sedimentele marine acoperă tot Cuaternarul; amândouă arată aceleași perioade regăsite în calculele astronomice.
 
 Aerul prins în gheață păstrează compoziția atmosferei din momentul căderii zăpezii. În tot acest interval, dioxidul de carbon rămâne între circa 180 și 300 de părți la un milion.
 
@@ -24,13 +24,13 @@ Cele mai vechi fosile atribuite genului Homo au circa 2,8 milioane de ani și pr
 
 Homo erectus se răspândește din Africa în Asia începând de acum aproximativ 1,9 milioane de ani. Urmele de folosire controlată a focului devin frecvente mult mai târziu, în ultima jumătate de milion de ani.
 
-Specia Homo sapiens apare în Africa acum aproximativ 300 de mii de ani, după fosilele de la Jebel Irhoud, din Maroc. În Eurasia trăiau atunci neandertalienii și denisovienii, iar analizele genetice arată amestec între aceste populații.
+Specia Homo sapiens apare în Africa acum aproximativ 300 de mii de ani, după fosilele de la Jebel Irhoud, din Maroc. În Eurasia trăiau atunci neandertalienii și denisovienii[^3], iar analizele genetice arată amestec între aceste populații.
 
 ## 3. Ce se poate citi din obiecte
 
 > #### DOVADA: gândirea simbolică înainte de scris
 >
-> **Ce se observă:** bucăți de ocru cu linii încrucișate gravate, din peștera Blombos, Africa de Sud, vechi de circa 73 de mii de ani, descrise de echipa condusă de Christopher Henshilwood. Alături de ele se găsesc scoici perforate, folosite ca mărgele.
+> **Ce se observă:** bucăți de ocru[^4] cu linii încrucișate gravate, din peștera Blombos, Africa de Sud, vechi de circa 73 de mii de ani, descrise de echipa condusă de Christopher Henshilwood. Alături de ele se găsesc scoici perforate, folosite ca mărgele.
 >
 > **Ce se măsoară:** vârsta straturilor, adâncimea și ordinea gravurilor sub microscop, urmele de uzură de pe scoici.
 >
@@ -50,7 +50,7 @@ Propunerea rămâne discutată, fiindcă se sprijină pe corelații statistice c
 >
 > #### Ce este documentat
 >
-> Abigail Anderson și colaboratoarele ei au publicat în PLOS ONE, în 2023, o analiză a descrierilor etnografice ale unor societăți de vânători-culegători. Ele au găsit femei care vânează în 79% dintre cazurile analizate.
+> Abigail Anderson și colaboratoarele ei au publicat în PLOS ONE, în 2023, o analiză a descrierilor etnografice[^5] ale unor societăți de vânători-culegători. Ele au găsit femei care vânează în 79% dintre cazurile analizate.
 >
 > Vivek Venkataraman și colaboratorii au publicat în 2024 o replică, în care au refăcut codarea acelorași surse. Cifrele obținute sunt altele: femei care vânează des sau uneori în 56% dintre societăți și vânătoare obișnuită de animale mari în 14%.
 >
@@ -115,3 +115,11 @@ _______________________________________________________________
 ## Note
 
 [^1]: Morena este grămada de pietriș, nisip și bolovani împinsă și lăsată în urmă de un ghețar. Forma și poziția ei arată până unde a ajuns gheața.
+
+[^2]: Carota este proba cilindrică de rocă, de gheață sau de sediment scoasă prin forare, care păstrează ordinea straturilor. Orientarea ei se notează la extragere, fiindcă de ea depind măsurătorile de direcție magnetică.
+
+[^3]: Denisovienii sunt o populație umană dispărută, recunoscută întâi după materialul genetic extras din câteva oase mici dintr-o peșteră din Munții Altai. Urme ale genelor lor se găsesc la populațiile actuale din Asia de Sud-Est și din Oceania.
+
+[^4]: Ocrul este un pământ colorat în galben, roșu sau brun de oxizii de fier pe care îi conține. A fost folosit ca pigment din paleolitic.
+
+[^5]: Descrierile etnografice sunt observații scrise asupra unor societăți vizitate de cercetători, cu felul lor de viață și de organizare. Ele privesc societăți din ultimele două secole, deci le acoperă pe cele preistorice numai prin comparație.

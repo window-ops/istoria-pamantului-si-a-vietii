@@ -16,7 +16,7 @@ Zonele joase de atunci se aflau în apropierea ecuatorului și erau acoperite de
 
 Modelul GEOCARBSULF, publicat de Robert Berner, dă un maxim de oxigen atmosferic de circa 30% până la 35%, așezat în Carboniferul târziu și în Permianul timpuriu, față de 21% astăzi. Cauza propusă este îngroparea materiei organice în mlaștini, care lasă oxigenul nefolosit în aer.
 
-Măsurătorile pe incluziuni fluide[^2] din sare gemă dau pentru aceleași intervale valori în jurul a 15%, mult sub rezultatul modelului. Diferența dintre cele două metode rămâne nerezolvată.
+Măsurătorile pe incluziuni fluide[^2] din sare gemă, adică din sarea de bucătărie în stare de rocă, dau pentru aceleași intervale valori în jurul a 15%, mult sub rezultatul modelului. Diferența dintre cele două metode rămâne nerezolvată.
 
 În aceleași straturi se găsesc artropode de dimensiuni neobișnuite: insecte asemănătoare libelulelor, cu deschiderea aripilor până la circa 70 de centimetri, și miriapode de peste doi metri.
 
@@ -58,7 +58,7 @@ Un continent unic are interiorul departe de mare, deci uscat și cu diferențe m
 
 Permianul ține de la 298,9 la 251,9 milioane de ani. Pe uscat se răspândesc sinapsidele, printre care Dimetrodon, cu o velă susținută de prelungiri ale vertebrelor, animal frecvent confundat cu reptilele și cu dinozaurii.
 
-Dimetrodon trăiește în Permianul timpuriu, cu aproximativ 40 de milioane de ani înaintea primilor dinozauri din lecția 5.1, și aparține liniei din care descind mamiferele. Spre sfârșitul perioadei apar terapsidele, forme cu membre așezate sub corp și cu dentiție diferențiată.
+Dimetrodon trăiește în Permianul timpuriu, cu aproximativ 40 de milioane de ani înaintea primilor dinozauri din lecția 5.1, și aparține liniei din care descind mamiferele. Spre sfârșitul perioadei apar terapsidele[^4], forme cu membre așezate sub corp și cu dentiție diferențiată.
 
 Vegetația se schimbă odată cu clima. Pădurile de licofite lasă locul coniferelor și altor plante cu semințe, care rezistă la uscăciune.
 
@@ -72,11 +72,11 @@ Vegetația se schimbă odată cu clima. Pădurile de licofite lasă locul conife
 >
 > Datările publicate de Seth Burgess, Samuel Bowring și Shen Shuzhong în PNAS în 2014 dau pentru dispariție o durată de 61 de mii de ani, cu o marjă de 48 de mii.
 >
-> În Siberia se revarsă una dintre cele mai întinse provincii magmatice cunoscute, începută cu circa 300 de mii de ani înaintea dispariției și continuată după ea. Rocile marine păstrează o scădere a raportului izotopilor de carbon și urme de apă săracă în oxigen.
+> În Siberia se revarsă una dintre cele mai întinse provincii magmatice cunoscute[^5], începută cu circa 300 de mii de ani înaintea dispariției și continuată după ea. Rocile marine păstrează o scădere a raportului izotopilor de carbon și urme de apă săracă în oxigen.
 >
 > #### Citirea A: gazele vulcanice
 >
-> Lava a străbătut straturi de cărbune și de evaporite[^4], iar arderea lor a eliberat dioxid de carbon, metan și compuși cu sulf. Încălzirea, acidifierea apei și lipsa oxigenului se leagă într-un lanț care explică ambele medii.
+> Lava a străbătut straturi de cărbune și de evaporite[^6], iar arderea lor a eliberat dioxid de carbon, metan și compuși cu sulf. Încălzirea, acidifierea apei și lipsa oxigenului se leagă într-un lanț care explică ambele medii.
 >
 > #### Citirea B: lanțul intern al oceanului
 >
@@ -127,4 +127,8 @@ _______________________________________________________________
 
 [^3]: Sinapsidele sunt amnioții cu o singură deschidere în osul tâmplei, de fiecare parte a craniului. Grupul cuprinde mamiferele și rudele lor dispărute, printre care Dimetrodon și terapsidele.
 
-[^4]: Evaporitele sunt roci formate prin evaporarea apei sărate, în bazine cu legătură slabă cu oceanul. Cuprind gipsul, sarea gemă și săruri mai rare.
+[^4]: Terapsidele sunt un grup de sinapside din Permian și Triasic, cu membre așezate sub corp și cu dinți de forme diferite. Din ele descind mamiferele.
+
+[^5]: Provinciile magmatice mari sunt regiuni în care s-au revărsat, într-un interval scurt, peste 100.000 de kilometri cubi de lavă și de magmă. Definiția folosită astăzi este cea propusă de Scott Bryan și Richard Ernst în 2008.
+
+[^6]: Evaporitele sunt roci formate prin evaporarea apei sărate, în bazine cu legătură slabă cu oceanul. Cuprind gipsul, sarea gemă și săruri mai rare.

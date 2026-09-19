@@ -47,9 +47,17 @@ Termenii apar în ordine alfabetică, cu lecția în care sunt explicați prima 
 
 **Acritarcele** sunt microfosile cu perete organic, de formă sferică sau cu prelungiri, a căror apartenență biologică rămâne nesigură. Se folosesc pentru datarea relativă a rocilor precambriene și paleozoice. *(lecția 3.2)*
 
-**Amoniții** sunt moluște marine dispărute, cu cochilie spiralată, împărțită în camere. Formele lor se schimbă repede de la un interval la altul, ceea ce le face utile pentru corelarea straturilor din Mezozoic. *(lecția 0)*
+**Aerosolii** sunt particule solide sau picături foarte fine care plutesc în aer. Cele de sulf reflectă lumina solară înapoi în spațiu și răcesc suprafața planetei. *(lecția 5.2)*
 
-**Arheile** sunt organisme unicelulare fără nucleu, asemănătoare la microscop cu bacteriile, cu o chimie a membranei și a genelor deosebită de a acestora. Multe trăiesc în medii fierbinți, sărate sau lipsite de oxigen. *(lecția 3.2)*
+**Alterarea** este descompunerea rocii la suprafață sub acțiunea apei, a aerului și a organismelor. Alterarea rocilor bazaltice consumă dioxid de carbon din atmosferă și îl trimite în ocean sub formă de carbonați. *(lecția 3.3)*
+
+**Amoniții** sunt moluște marine dispărute, cu cochilie spiralată împărțită în camere prin pereți despărțitori. Forma pereților se schimbă repede de la un interval la altul, ceea ce le face utile la corelarea straturilor mezozoice. *(lecția 0)*
+
+**Anortozitul** este o rocă magmatică alcătuită aproape numai din feldspat plagioclaz, mineral ușor și deschis la culoare. Cristalele lui pluteau în oceanul de magmă lunar și au format crusta veche a Lunii. *(lecția 1.2)*
+
+**Arcurile branhiale** sunt piese scheletice curbate care susțin branhiile la pești. Primul dintre ele s-a transformat, la peștii cu maxilare, în falca de sus și în cea de jos. *(lecția 4.2)*
+
+**Arheile** sunt organisme unicelulare fără nucleu, asemănătoare la microscop cu bacteriile, cu o chimie a membranei și a genelor deosebită de a acestora. Multe trăiesc în medii fierbinți, sărate sau lipsite de oxigen. *(lecția 2.2)*
 
 **Badeleitul** este un mineral de zirconiu care cristalizează în magmele sărace în silice, precum cele bazaltice. Primește uraniu în structura sa, ceea ce îl face potrivit pentru datare. *(lecția 3.1)*
 
@@ -59,37 +67,65 @@ Termenii apar în ordine alfabetică, cu lecția în care sunt explicați prima 
 
 **Biomarkerii** sunt molecule organice rezistente, păstrate în rocă, a căror structură trimite la grupul de organisme care le-a produs. Folosirea lor are nevoie de dovada că nu au pătruns în rocă mai târziu. *(lecția 3.2)*
 
+**Calota glaciară** este masa de gheață care acoperă continuu o suprafață mare de uscat, precum Antarctica și Groenlanda de astăzi. Se deosebește de ghețarii de vale prin întindere și prin grosime. *(lecția 3.3)*
+
 **Carbonații de acoperire** sunt straturi de calcar sau de dolomit depuse direct peste depozitele glaciare, în perioada de încălzire care urmează topirii. Grosimea și compoziția lor se folosesc pentru datarea sfârșitului glaciației. *(lecția 3.3)*
 
+**Carota** este proba cilindrică de rocă, de gheață sau de sediment scoasă prin forare, care păstrează ordinea straturilor. Orientarea ei se notează la extragere, fiindcă de ea depind măsurătorile de direcție magnetică. *(lecția 2.1)*
+
 **Cataliza** este grăbirea unei reacții chimice de către o substanță care iese neschimbată din reacție. În celulă, rolul revine de obicei proteinelor numite enzime. *(lecția 2.2)*
+
+**Ceasul molecular** este metoda prin care vârsta despărțirii a două grupuri se estimează din numărul de diferențe acumulate între genele lor. Rezultatul depinde de ritmul presupus al acestor schimbări și de fosilele folosite la calibrare. *(lecția 2.2)*
 
 **Centurile de roci verzi** sunt fâșii alungite de lave și de sedimente vechi, prinse între roci granitice. Culoarea verzuie vine de la mineralele formate prin transformarea bazaltului la temperatură moderată. *(lecția 2.1)*
 
 **Cherturile** sunt roci dure alcătuite din silice, formate prin depunere chimică sau prin înlocuirea altor roci. Păstrează bine formele mici, motiv pentru care sunt căutate de cei care studiază viața timpurie. *(lecția 2.2)*
 
+**Cicadofitele** sunt plante cu semințe, cu trunchi gros și frunze mari, penate, răspândite în Mezozoic. Câteva specii trăiesc și astăzi în regiunile calde. *(lecția 5.1)*
+
 **Condrulele** sunt boabe sferice de silicați, de ordinul milimetrului, topite și răcite rapid în discul din jurul Soarelui. Meteoritele care le conțin se numesc condrite. *(lecția 1.1)*
+
+**Cordatele** sunt animalele care au, cel puțin într-un stadiu al vieții, o tijă de susținere de-a lungul spatelui. Din acest grup fac parte vertebratele. *(lecția 4.1)*
 
 **Cuarțul șocat** are în interior planuri de rupere produse de o undă de presiune foarte puternică. Se formează la impacturi și la explozii nucleare, fără echivalent în erupțiile vulcanice. *(lecția 5.2)*
 
 **Degazarea** este ieșirea gazelor dizolvate în magmă atunci când aceasta ajunge aproape de suprafață, unde presiunea scade. Vulcanii sunt principala cale prin care interiorul planetei își trimite gazele în atmosferă. *(lecția 1.2)*
 
+**Denisovienii** sunt o populație umană dispărută, recunoscută întâi după materialul genetic extras din câteva oase mici dintr-o peșteră din Munții Altai. Urme ale genelor lor se găsesc la populațiile actuale din Asia de Sud-Est și din Oceania. *(lecția 6.2)*
+
+**Descrierile etnografice** sunt observații scrise asupra unor societăți vizitate de cercetători, cu felul lor de viață și de organizare. Ele privesc societăți din ultimele două secole, deci le acoperă pe cele preistorice numai prin comparație. *(lecția 6.2)*
+
 **Deuteriul** este forma grea a hidrogenului, cu un neutron în nucleu. Raportul dintre deuteriu și hidrogenul obișnuit diferă de la un corp ceresc la altul și se folosește pentru a compara sursele de apă. *(lecția 1.1)*
 
 **Diamictitul** este o rocă alcătuită din fragmente de dimensiuni foarte diferite, prinse într-o masă fină. Se formează sub ghețari, iar în alte condiții prin alunecări de teren subacvatice. *(lecția 3.1)*
 
+**Dorsalele oceanice** sunt lanțuri vulcanice de pe fundul oceanelor, în lungul cărora se formează scoarță nouă. Pe lângă lavă, ele eliberează în apă și dioxid de carbon venit din manta. *(lecția 3.3)*
+
 **Enstatitul** este un silicat de magneziu sărac în fier, care se formează la temperaturi ridicate. Condritele care îl conțin în cantitate mare se numesc condrite cu enstatit. *(lecția 1.1)*
+
+**Etajul** este cea mai mică unitate a scării timpului geologic, subdiviziune a unei epoci, definită tot printr-un punct de teren. Frasnianul și Famennianul sunt cele două etaje de la sfârșitul Devonianului. *(lecția 4.2)*
 
 **Evaporitele** sunt roci formate prin evaporarea apei sărate, în bazine cu legătură slabă cu oceanul. Cuprind gipsul, sarea gemă și săruri mai rare. *(lecția 4.3)*
 
+**Extrapolarea** este prelungirea unei tendințe măsurate dincolo de intervalul în care a fost măsurată. Rezultatul depinde de presupunerea că tendința se menține. *(lecția 6.3)*
+
 **Filonul** este o fisură din scoarță umplută cu magmă care s-a răcit acolo. Un roi de filoane cuprinde sute sau mii de astfel de fisuri, formate în același eveniment vulcanic. *(lecția 3.1)*
 
+**Forajul** este gaura săpată în scoarță sau în gheață pentru a scoate probe din adâncime. Proba cilindrică rezultată se numește carotă și păstrează ordinea straturilor. *(lecția 6.1)*
+
 **Foraminiferele** sunt organisme unicelulare marine cu cochilie calcaroasă, de obicei sub un milimetru. Cochiliile lor se adună pe fundul mării și formează straturi întregi de calcar. *(lecția 5.2)*
+
+**Formațiunea** este unitatea de bază folosită la împărțirea rocilor pe corpuri care se pot urmări pe teren, numită după locul unde a fost descrisă. Ea grupează straturi cu aceleași caractere. *(lecția 5.1)*
+
+**Formațiunile de fier bandat** sunt roci cu straturi subțiri alternante, bogate în fier și în silice, depuse mai ales între 3,0 și 1,8 miliarde de ani. Ele au nevoie de fier dizolvat în apă, deci de un ocean sărac în oxigen. *(lecția 2.1)*
 
 **Gipsul** este o sare de calciu care se depune din apa de mare la începutul evaporării, înaintea sării de bucătărie. Se folosește astăzi la fabricarea ipsosului. *(lecția 6.1)*
 
 **Gnaisul** este o rocă metamorfică cu minerale dispuse în benzi deschise și închise la culoare. Se formează din roci mai vechi, supuse temperaturii și presiunii în adâncime. *(lecția 1.2)*
 
-**Graptoliții** sunt animale coloniale marine, dispărute, care trăiau în colonii ramificate și lăsau în rocă urme asemănătoare unor desene cu creionul. Se folosesc pentru datarea straturilor din Ordovician și Silurian. *(lecția 0)*
+**Graptoliții** sunt animale coloniale marine, dispărute, ale căror colonii ramificate lasă în rocă urme asemănătoare unor desene cu creionul. Se folosesc pentru datarea straturilor din Ordovician și Silurian. *(lecția 0)*
+
+**Incluziunile** sunt corpuri străine, solide, lichide sau gazoase, prinse în interiorul unui mineral sau al unei roci la formarea acesteia. Compoziția lor păstrează condițiile din momentul formării, motiv pentru care se folosesc la datare și la reconstituirea mediilor vechi. *(lecția 1.1)*
 
 **Incluziunile fluide** sunt picături de apă sau bule de gaz rămase prinse într-un cristal la formarea lui. Cele din sarea gemă păstrează aer vechi, care se poate analiza după spargerea cristalului. *(lecția 4.3)*
 
@@ -105,11 +141,19 @@ Termenii apar în ordine alfabetică, cu lecția în care sunt explicați prima 
 
 **Metamorfismul** este transformarea unei roci sub temperatură și presiune ridicate, fără topire completă. Schimbă mineralele și structura rocii și poate șterge sau deforma urmele păstrate în ea. *(lecția 0)*
 
+**Mineralele detritice** sunt boabe smulse dintr-o rocă mai veche și transportate de ape până la locul depunerii. Starea lor arată prin ce medii au trecut pe drum. *(lecția 3.1)*
+
 **Morena** este grămada de pietriș, nisip și bolovani împinsă și lăsată în urmă de un ghețar. Forma și poziția ei arată până unde a ajuns gheața. *(lecția 6.2)*
 
 **Nebuloasa solară** este norul de gaz și de praf din care s-au format Soarele și planetele. Termenul se folosește și pentru norii asemănători observați astăzi în jurul altor stele tinere. *(lecția 1.1)*
 
+**Ocrul** este un pământ colorat în galben, roșu sau brun de oxizii de fier pe care îi conține. A fost folosit ca pigment din paleolitic. *(lecția 6.2)*
+
 **Organitele** sunt compartimente delimitate de membrană din interiorul unei celule, fiecare cu o funcție proprie: nucleul, mitocondria, cloroplastul. *(lecția 3.2)*
+
+**Paleomagnetismul** este studiul direcției și al tăriei câmpului magnetic păstrate în roci din momentul formării lor. Din direcția măsurată se calculează latitudinea la care se afla roca atunci. *(lecția 3.2)*
+
+**Părțile la un milion** arată câte molecule dintr-un milion sunt de substanța măsurată. O valoare de 427 de părți la un milion înseamnă 427 de molecule de dioxid de carbon la un milion de molecule de aer uscat. *(lecția 6.3)*
 
 **Peștii cu înotătoare lobate** au la baza înotătoarelor perechi un lob cărnos, susținut de oase. Grupul cuprinde astăzi celacanții și peștii dipnoi, care respiră și prin plămâni. *(lecția 4.2)*
 
@@ -117,11 +161,23 @@ Termenii apar în ordine alfabetică, cu lecția în care sunt explicați prima 
 
 **Placodermele** sunt pești dispăruți, cu capul și partea din față a trunchiului acoperite de plăci osoase articulate. Au trăit din Silurian până la sfârșitul Devonianului. *(lecția 4.2)*
 
+**Platforma continentală** este porțiunea de fund de mare care prelungește continentul sub apă, până la adâncimi de circa 200 de metri. Pe ea se depun cele mai multe sedimente marine. *(lecția 4.1)*
+
+**Provinciile magmatice mari** sunt regiuni în care s-au revărsat, într-un interval scurt, peste 100.000 de kilometri cubi de lavă și de magmă. Definiția folosită astăzi este cea propusă de Scott Bryan și Richard Ernst în 2008. *(lecția 3.1)*
+
 **Silicații** sunt mineralele formate din siliciu și oxigen, împreună cu alte elemente. Alcătuiesc cea mai mare parte a scoarței și a mantalei. *(lecția 1.1)*
+
+**Silicea** este dioxidul de siliciu, substanța din care sunt alcătuite cuarțul și nisipul obișnuit. Plantele o pot depune în țesuturi sub formă de particule dure. *(lecția 6.1)*
 
 **Sinapsidele** sunt amnioții cu o singură deschidere în osul tâmplei, de fiecare parte a craniului. Grupul cuprinde mamiferele și rudele lor dispărute, printre care Dimetrodon și terapsidele. *(lecția 4.3)*
 
 **Stromatolitele** sunt structuri stratificate formate prin creșterea păturilor de microorganisme care rețin particule și depun carbonat. Se formează și astăzi, în câteva golfuri sărate. *(lecția 0)*
+
+**Stromatoporoidele** sunt animale marine dispărute, înrudite cu bureții, care depuneau un schelet calcaros stratificat. În Devonian construiau recife, alături de corali. *(lecția 4.2)*
+
+**Taxonul** este un grup de organisme recunoscut și numit în clasificare, la orice treaptă: specie, gen, familie, încrengătură. Procentele de dispariție se calculează de obicei pe genuri, fiindcă genurile se recunosc mai sigur în fosile decât speciile. *(lecția 4.1)*
+
+**Terapsidele** sunt un grup de sinapside din Permian și Triasic, cu membre așezate sub corp și cu dinți de forme diferite. Din ele descind mamiferele. *(lecția 4.3)*
 
 **Tetrapodele** sunt vertebratele cu patru membre și descendenții lor, inclusiv formele care au pierdut membrele. Grupul cuprinde amfibienii, reptilele, păsările și mamiferele. *(lecția 4.2)*
 
@@ -133,7 +189,9 @@ Termenii apar în ordine alfabetică, cu lecția în care sunt explicați prima 
 
 **Urechea medie** este spațiul dintre timpan și urechea internă, străbătut de oscioare care transmit vibrațiile. La mamifere, două dintre aceste oscioare provin din oasele care, la strămoși, sprijineau falca pe craniu. *(lecția 5.1)*
 
-**Zirconul** este un mineral care cristalizează în roci vulcanice și care primește uraniu în rețeaua sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas. *(lecția 0)*
+**Zgura** este resturile solide rămase după topirea minereurilor sau după arderea cărbunelui. Ea se adună în halde și rezistă mult timp în sedimente. *(lecția 6.3)*
+
+**Zirconul** este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas. *(lecția 0)*
 
 ## 5. Cum se citește o vârstă din manual
 

@@ -8,7 +8,7 @@ Lecția urmărește ieșirea plantelor și a animalelor din apă, ceea ce arată
 
 Silurianul ține de la 443,1 la 419,2 milioane de ani. După extincția ordoviciană, recifele se refac, iar mările calde acoperă suprafețe mari de platformă continentală.
 
-Peștii cu maxilare se diversifică. Maxilarul provine din transformarea primului arc branhial, iar apariția lui schimbă modul de hrănire, fiindcă permite prinderea și tăierea prăzii.
+Peștii cu maxilare se diversifică. Maxilarul provine din transformarea primului arc branhial[^1], iar apariția lui schimbă modul de hrănire, fiindcă permite prinderea și tăierea prăzii.
 
 Tot în Silurian apar primele plante cu țesut conducător, cunoscute din genul Cooksonia, ale cărui tulpini subțiri ramificate în două nu depășeau câțiva centimetri.
 
@@ -28,9 +28,9 @@ Solul apare acum ca strat distinct. Rădăcinile, chiar scurte, și resturile or
 
 Devonianul ține de la 419,2 la 358,9 milioane de ani. Perioada este numită în manuale vârsta peștilor, fiindcă în ea se diversifică toate marile grupuri de vertebrate acvatice cunoscute.
 
-Placodermele[^1] poartă plăci osoase pe cap și pe partea din față a trunchiului. Dunkleosteus, dintre cele mai mari, atingea câțiva metri și tăia prada cu marginile ascuțite ale plăcilor, fără dinți propriu-ziși.
+Placodermele[^2] poartă plăci osoase pe cap și pe partea din față a trunchiului. Dunkleosteus, dintre cele mai mari, atingea câțiva metri și tăia prada cu marginile ascuțite ale plăcilor, fără dinți propriu-ziși.
 
-Peștii cu înotătoare lobate[^2] au la baza înotătoarelor un schelet cu oase dispuse în șir, asemănător cu cel al membrelor. Din acest grup descind tetrapodele[^3], iar celacantul și peștii dipnoi actuali sunt rudele lor apropiate rămase.
+Peștii cu înotătoare lobate[^3] au la baza înotătoarelor un schelet cu oase dispuse în șir, asemănător cu cel al membrelor. Din acest grup descind tetrapodele[^4], iar celacantul și peștii dipnoi actuali sunt rudele lor apropiate rămase.
 
 ## 4. Când au ieșit tetrapodele pe uscat
 
@@ -44,11 +44,11 @@ Peștii cu înotătoare lobate[^2] au la baza înotătoarelor un schelet cu oase
 >
 > #### Citirea A: urmele arată tetrapode mai vechi
 >
-> Amprentele au formă de labă cu degete și sunt dispuse în șiruri alternante, tipare care cer membre. Lipsa fosilelor de corp din acel interval măsoară păstrarea, fiindcă scheletele se conservă mai rar decât urmele lăsate în noroi.
+> Amprentele au formă de labă cu degete și sunt dispuse în șiruri alternante, tipare care indică membre. Lipsa fosilelor de corp din acel interval măsoară păstrarea, fiindcă scheletele se conservă mai rar decât urmele lăsate în noroi.
 >
 > #### Citirea B: urmele pot avea altă origine
 >
-> Amprente asemănătoare se produc și prin alte procese: pești care se sprijină pe fund, curgeri de sediment, deformări ulterioare. Atribuirea unei urme la un animal fără schelet găsit alături rămâne o inferență.
+> Amprente asemănătoare se produc și prin alte procese: pești care se sprijină pe fund, curgeri de sediment, deformări ulterioare. Atribuirea unei urme la un animal fără schelet găsit alături rămâne o deducție.
 >
 > #### Ce poate stabili elevul
 >
@@ -72,7 +72,7 @@ Consecința asupra apelor este documentată în sedimente. Aportul de substanțe
 
 ## 6. Extincțiile devoniene
 
-Primul episod are loc la circa 372 de milioane de ani, la limita dintre etajele Frasnian și Famennian. Dispare atunci cea mai mare parte a recifelor construite de corali și de stromatoporoide. Straturile negre depuse în același timp arată ape sărace în oxigen.
+Primul episod are loc la circa 372 de milioane de ani, la limita dintre etajele[^5] Frasnian și Famennian. Dispare atunci cea mai mare parte a recifelor construite de corali și de stromatoporoide[^6]. Straturile negre depuse în același timp arată ape sărace în oxigen.
 
 La 358,9 milioane de ani, al doilea episod lovește peștii și tetrapodele timpurii. Cele două evenimente sunt legate în literatură de răcire, de lipsa oxigenului în ape și de efectele plantelor terestre asupra solului și apelor.
 
@@ -116,8 +116,14 @@ _______________________________________________________________
 
 ## Note
 
-[^1]: Placodermele sunt pești dispăruți, cu capul și partea din față a trunchiului acoperite de plăci osoase articulate. Au trăit din Silurian până la sfârșitul Devonianului.
+[^1]: Arcurile branhiale sunt piese scheletice curbate care susțin branhiile la pești. Primul dintre ele s-a transformat, la peștii cu maxilare, în falca de sus și în cea de jos.
 
-[^2]: Peștii cu înotătoare lobate au la baza înotătoarelor perechi un lob cărnos, susținut de oase. Grupul cuprinde astăzi celacanții și peștii dipnoi, care respiră și prin plămâni.
+[^2]: Placodermele sunt pești dispăruți, cu capul și partea din față a trunchiului acoperite de plăci osoase articulate. Au trăit din Silurian până la sfârșitul Devonianului.
 
-[^3]: Tetrapodele sunt vertebratele cu patru membre și descendenții lor, inclusiv formele care au pierdut membrele. Grupul cuprinde amfibienii, reptilele, păsările și mamiferele.
+[^3]: Peștii cu înotătoare lobate au la baza înotătoarelor perechi un lob cărnos, susținut de oase. Grupul cuprinde astăzi celacanții și peștii dipnoi, care respiră și prin plămâni.
+
+[^4]: Tetrapodele sunt vertebratele cu patru membre și descendenții lor, inclusiv formele care au pierdut membrele. Grupul cuprinde amfibienii, reptilele, păsările și mamiferele.
+
+[^5]: Etajul este cea mai mică unitate a scării timpului geologic, subdiviziune a unei epoci, definită tot printr-un punct de teren. Frasnianul și Famennianul sunt cele două etaje de la sfârșitul Devonianului.
+
+[^6]: Stromatoporoidele sunt animale marine dispărute, înrudite cu bureții, care depuneau un schelet calcaros stratificat. În Devonian construiau recife, alături de corali.

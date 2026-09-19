@@ -14,7 +14,7 @@ Pe uscat, printre puținele forme răspândite se află Lystrosaurus, o sinapsid
 
 ## 2. Apar dinozaurii
 
-Primele fosile atribuite fără dispută dinozaurilor provin din Triasicul târziu. Ele vin din formațiunea Santa Maria din Brazilia, de circa 233 de milioane de ani, și din formațiunea Ischigualasto din Argentina, de circa 231 de milioane de ani. Sunt animale de un metru sau doi, bipede, cu membre așezate sub corp.
+Primele fosile atribuite fără dispută dinozaurilor provin din Triasicul târziu. Ele vin din formațiunea Santa Maria[^2] din Brazilia, de circa 233 de milioane de ani, și din formațiunea Ischigualasto din Argentina, de circa 231 de milioane de ani. Sunt animale de un metru sau doi, bipede, cu membre așezate sub corp.
 
 Din Tanzania a fost descris Nyasasaurus, cu aproximativ 243 de milioane de ani, pe baza câtorva oase. Atribuirea lui la dinozauri este contestată din cauza materialului puțin.
 
@@ -28,11 +28,11 @@ Extincția de la sfârșitul Triasicului, la 201,4 milioane de ani, lovește mai
 
 ## 3. Primele mamifere
 
-În Triasicul târziu apar forme mici, de mărimea unei scorpii, cu dinți de forme diferite pe rânduri și cu o falcă alcătuită altfel decât la strămoșii lor. Adelobasileus, descris din Texas, cu circa 225 de milioane de ani, aparține grupului apropiat mamiferelor, fără să fie mamifer propriu-zis.
+În Triasicul târziu apar forme mici, de mărimea unui chițcan, cu dinți de forme diferite pe rânduri și cu o falcă alcătuită altfel decât la strămoșii lor. Adelobasileus, descris din Texas, cu circa 225 de milioane de ani, aparține grupului apropiat mamiferelor, fără să fie mamifer propriu-zis.
 
 Blana și glandele mamare se fosilizează rar, așa că limita grupului se trage după oase. Semnul folosit este alcătuirea fălcii de jos: la mamifere ea este un singur os, care poartă toți dinții și se sprijină direct pe craniu.
 
-La strămoșii lor, falca de jos avea mai multe oase, iar sprijinul pe craniu se făcea prin alte două. Aceleași două oase s-au micșorat și au ajuns în urechea medie[^2], unde transmit vibrațiile. Fosilele arată trecerea în pași mici, cu forme la care ambele legături funcționează în același timp.
+La strămoșii lor, falca de jos avea mai multe oase, iar sprijinul pe craniu se făcea prin alte două. Aceleași două oase s-au micșorat și au ajuns în urechea medie[^3], unde transmit vibrațiile. Fosilele arată trecerea în pași mici, cu forme la care ambele legături funcționează în același timp.
 
 Aceste animale sunt nocturne și mici pe toată durata Mezozoicului. Dimensiunea lor rămâne sub un kilogram în majoritatea cazurilor, cu câteva excepții cretacice.
 
@@ -42,7 +42,7 @@ Pangeea începe să se rupă în Jurasicul timpuriu. Între blocul nordic și ce
 
 > #### DOVADA: ruperea unui continent
 >
-> **Ce se observă:** curgeri de bazalt de aceeași vârstă[^3] pe marginile continentelor de o parte și de alta a Atlanticului, urmate de straturi de sare și apoi de sedimente marine.
+> **Ce se observă:** curgeri de bazalt de aceeași vârstă[^4] pe marginile continentelor de o parte și de alta a Atlanticului, urmate de straturi de sare și apoi de sedimente marine.
 >
 > **Ce se măsoară:** vârsta bazaltelor prin uraniu-plumb și argon-argon, direcțiile magnetice din rocile oceanice și grosimea depozitelor de sare.
 >
@@ -56,9 +56,9 @@ Fragmentarea crește lungimea țărmurilor și suprafața mărilor puțin adânc
 
 Jurasicul ține de la 201,4 la 143,1 milioane de ani. Dinozaurii ating acum dimensiuni mari: sauropodele depășesc 20 de metri lungime, iar prădătorii bipezi cresc odată cu ele.
 
-În mări trăiesc ihtiozaurii, cu formă de corp asemănătoare delfinilor, și plesiozaurii, cu gât lung și membre transformate în lopeți. Amoniții[^4], moluște cu cochilie spiralată, se schimbă repede și se folosesc pentru datarea straturilor jurasice.
+În mări trăiesc ihtiozaurii, cu formă de corp asemănătoare delfinilor, și plesiozaurii, cu gât lung și membre transformate în lopeți. Amoniții[^5], moluște cu cochilie spiralată, se schimbă repede și se folosesc pentru datarea straturilor jurasice.
 
-Pădurile sunt alcătuite din conifere, ginkgo și cicadofite, fără plante cu flori, care apar în Cretacic.
+Pădurile sunt alcătuite din conifere, ginkgo și cicadofite[^6], fără plante cu flori, care apar în Cretacic.
 
 Nivelul mării crește față de Triasic, iar mările puțin adânci acoperă suprafețe mari din Europa. În ele se depun calcarele exploatate astăzi în cariere, printre care cele din sudul Germaniei și din bazinul Parisului.
 
@@ -120,10 +120,14 @@ _______________________________________________________________
 
 ## Note
 
-[^1]: Sinapsidele sunt animalele cu o singură deschidere în osul tâmplei, de fiecare parte a craniului. Grupul cuprinde mamiferele și rudele lor dispărute.
+[^1]: Sinapsidele sunt amnioții cu o singură deschidere în osul tâmplei, de fiecare parte a craniului. Grupul cuprinde mamiferele și rudele lor dispărute, printre care Dimetrodon și terapsidele.
 
-[^2]: Urechea medie este spațiul dintre timpan și urechea internă, străbătut de oscioare care transmit vibrațiile. La mamifere, două dintre aceste oscioare provin din oasele care, la strămoși, sprijineau falca pe craniu.
+[^2]: Formațiunea este unitatea de bază folosită la împărțirea rocilor pe corpuri care se pot urmări pe teren, numită după locul unde a fost descrisă. Ea grupează straturi cu aceleași caractere.
 
-[^3]: Bazaltul este roca vulcanică închisă la culoare, formată prin răcirea rapidă a lavei. Alcătuiește fundul oceanelor actuale.
+[^3]: Urechea medie este spațiul dintre timpan și urechea internă, străbătut de oscioare care transmit vibrațiile. La mamifere, două dintre aceste oscioare provin din oasele care, la strămoși, sprijineau falca pe craniu.
 
-[^4]: Amoniții sunt moluște marine dispărute, cu cochilie spiralată împărțită în camere prin pereți despărțitori. Forma pereților se schimbă repede de la un interval la altul, ceea ce le face utile la corelarea straturilor mezozoice.
+[^4]: Bazaltul este roca vulcanică închisă la culoare, formată prin răcirea rapidă a lavei. Alcătuiește fundul oceanelor actuale.
+
+[^5]: Amoniții sunt moluște marine dispărute, cu cochilie spiralată împărțită în camere prin pereți despărțitori. Forma pereților se schimbă repede de la un interval la altul, ceea ce le face utile la corelarea straturilor mezozoice.
+
+[^6]: Cicadofitele sunt plante cu semințe, cu trunchi gros și frunze mari, penate, răspândite în Mezozoic. Câteva specii trăiesc și astăzi în regiunile calde.

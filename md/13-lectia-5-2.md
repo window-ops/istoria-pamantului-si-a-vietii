@@ -20,7 +20,7 @@ Fructul aduce o altă schimbare. Semințele închise într-un înveliș cărnos 
 >
 > Depunerea are loc în ape calde, puțin adânci și fără mult sediment adus de râuri. Straturile de cretă din nordul Franței și din sudul Angliei au dat numele perioadei.
 
-În aceste mări trăiesc amoniți, scoici constructoare de recife și reptile mari: mozasauri, plesiozauri, broaște-țestoase de câțiva metri. Peștii osoși moderni se diversifică tot acum.
+În aceste mări trăiesc amoniți, scoici constructoare de recife și reptile mari: mozasauri, șopârle marine de câțiva metri, plesiozauri, broaște-țestoase de câțiva metri. Peștii osoși moderni se diversifică tot acum.
 
 Foraminiferele[^1], organisme unicelulare cu cochilie, sunt folosite pentru datarea straturilor marine cretacice, fiindcă se schimbă repede și se găsesc peste tot. Aceleași cochilii dau, în lecția 6.1, temperaturile din Cenozoic.
 
@@ -34,7 +34,7 @@ Foraminiferele[^1], organisme unicelulare cu cochilie, sunt folosite pentru data
 >
 > **Ce se deduce:** stratul provine din materialul aruncat de o ciocnire cu un corp ceresc. Craterul potrivit ca vârstă și ca mărime este Chicxulub, îngropat sub peninsula Yucatán, cu diametrul de circa 200 de kilometri.
 >
-> **Ce rămâne nedeterminat:** efectul exact al prafului și al aerosolilor asupra climei în primii ani. Modelele dau răciri de durate diferite, în funcție de cantitatea de sulf presupusă.
+> **Ce rămâne nedeterminat:** efectul exact al prafului și al aerosolilor[^4] asupra climei în primii ani. Modelele dau răciri de durate diferite, în funcție de cantitatea de sulf presupusă.
 
 Stratul a fost descris în 1980 de Luis și Walter Alvarez împreună cu colaboratorii lor, care au propus atunci explicația prin impact. Craterul a fost identificat abia după zece ani, din date de prospecțiune petrolieră.
 
@@ -82,7 +82,7 @@ Pădurile se refac întâi prin ferigi, apoi prin plante cu flori.
 |---|---|---|---|
 | Baza Cretacicului | 143,1 milioane de ani | scara ICS | convenție |
 | Primele plante cu flori | Cretacicul timpuriu | fosile de polen și de frunze | măsurat |
-| Impactul de la Chicxulub | 66,04 milioane de ani | argon-argon pe sticlă de impact[^4] | măsurat |
+| Impactul de la Chicxulub | 66,04 milioane de ani | argon-argon pe sticlă de impact[^5] | măsurat |
 | Limita Cretacic-Paleogen | 66,04 milioane de ani | argon-argon pe cristale din stratul de limită | măsurat |
 | Pulsul principal al Trapilor Deccanului | 66,10-66,00 milioane de ani | uraniu-plumb pe zircon | măsurat |
 | Răcire produsă de sulf vulcanic | circa 30 de mii de ani înainte de limită | compoziția sedimentelor terestre | dedus din analize chimice |
@@ -115,4 +115,6 @@ _______________________________________________________________
 
 [^3]: Cuarțul șocat are în interior planuri de rupere produse de o undă de presiune foarte puternică. Se formează la impacturi și la explozii nucleare, fără echivalent în erupțiile vulcanice.
 
-[^4]: Zirconul este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.
+[^4]: Aerosolii sunt particule solide sau picături foarte fine care plutesc în aer. Cele de sulf reflectă lumina solară înapoi în spațiu și răcesc suprafața planetei.
+
+[^5]: Zirconul este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.

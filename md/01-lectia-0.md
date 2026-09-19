@@ -8,7 +8,7 @@ Fără acest lanț, restul manualului rămâne o listă de date pe care cititoru
 
 Într-o succesiune de straturi, stratul de deasupra se depune după cel de dedesubt. Regula a fost formulată în 1669 de Nicolaus Steno, împreună cu observația că sedimentele se depun inițial în strate aproape orizontale.
 
-Din aceleași observații vine o altă regulă folosită în teren: o falie, o crăpătură umplută cu magmă sau o intruziune este mai tânără decât roca pe care o taie.
+Din aceleași observații vine o altă regulă folosită în teren. O falie, adică o ruptură de-a lungul căreia rocile s-au deplasat, este mai tânără decât roca pe care o taie. Aceeași regulă se aplică unei mase de magmă răcite în interiorul altor roci.
 
 În zonele muntoase, straturile ajung uneori răsturnate, iar geologul recunoaște situația după semne păstrate în rocă: urmele de valuri de pe suprafața unui strat, crăpăturile de uscare, orientarea fosilelor. Regulile de mai sus dau ordinea evenimentelor, fără să dea numărul de ani.
 
@@ -98,7 +98,7 @@ Organismele cu corp moale lipsesc aproape complet, iar un interval fără fosile
 
 | Metoda | Ce se datează | Intervalul util | Ce o limitează |
 |---|---|---|---|
-| Uraniu-plumb | cristale de zircon din roci vulcanice | de la circa un milion de ani până la peste 4 miliarde de ani | cere cristale nealterate |
+| Uraniu-plumb | cristale de zircon din roci vulcanice | de la circa un milion de ani până la peste 4 miliarde de ani | are nevoie de cristale nealterate |
 | Potasiu-argon și argon-argon | minerale din lave și tufuri | de la câteva mii de ani până la miliarde de ani | argonul scapă din mineral la încălzire |
 | Carbon-14 | lemn, oase, cochilii, cărbune de foc | până la circa 50.000 de ani | cantitatea rămasă devine prea mică |
 | Corelarea prin fosile | straturi sedimentare | Fanerozoicul | dă ordinea și intervalul, fără cifră proprie |
@@ -124,15 +124,15 @@ _______________________________________________________________
 
 ## Note
 
-[^1]: Graptoliții sunt animale coloniale marine, dispărute, care trăiau în colonii ramificate și lăsau în rocă urme asemănătoare unor desene cu creionul. Se folosesc pentru datarea straturilor din Ordovician și Silurian.
+[^1]: Graptoliții sunt animale coloniale marine, dispărute, ale căror colonii ramificate lasă în rocă urme asemănătoare unor desene cu creionul. Se folosesc pentru datarea straturilor din Ordovician și Silurian.
 
-[^2]: Amoniții sunt moluște marine dispărute, cu cochilie spiralată, împărțită în camere. Formele lor se schimbă repede de la un interval la altul, ceea ce le face utile pentru corelarea straturilor din Mezozoic.
+[^2]: Amoniții sunt moluște marine dispărute, cu cochilie spiralată împărțită în camere prin pereți despărțitori. Forma pereților se schimbă repede de la un interval la altul, ceea ce le face utile la corelarea straturilor mezozoice.
 
 [^3]: Izotopii sunt forme ale aceluiași element cu număr diferit de neutroni. Unii sunt stabili, alții se transformă în timp în alte elemente.
 
 [^4]: Tuful este roca formată prin întărirea cenușii aruncate de un vulcan. Se depune într-un interval scurt, uneori de câteva zile, ceea ce îl face util pentru datare.
 
-[^5]: Zirconul este un mineral care cristalizează în roci vulcanice și care primește uraniu în rețeaua sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.
+[^5]: Zirconul este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.
 
 [^6]: Stromatolitele sunt structuri stratificate formate prin creșterea păturilor de microorganisme care rețin particule și depun carbonat. Se formează și astăzi, în câteva golfuri sărate.
 

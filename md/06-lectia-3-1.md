@@ -4,7 +4,7 @@ Proterozoicul începe la 2.500 de milioane de ani, printr-o limită fixată prin
 
 Lecția arată cum se măsoară această schimbare, ce s-a petrecut în același interval pe uscat și în oceane și de ce momentul ei rămâne discutat.
 
-## 1. Cum se știe că aerul avea puțin oxigen
+## 1. Cum se stabilește că aerul avea puțin oxigen
 
 Înainte de 2,4 miliarde de ani, râurile transportau boabe de pirită[^1] și de uraninit[^2], minerale care se descompun repede în contact cu apa care conține oxigen. Prezența lor nealterată în gresii vechi arată o atmosferă săracă în oxigen.
 
@@ -26,7 +26,7 @@ După acest moment apar straturile roșii, sedimente în care fierul a fost oxid
 >
 > **Ce se măsoară:** cantitățile celor patru forme ale sulfului și abaterea lor de la calculul obișnuit, care leagă aceste cantități între ele prin masă.
 >
-> **Ce se deduce:** abaterea dispare în intervalul 2,45-2,32 miliarde de ani, ceea ce arată creșterea oxigenului peste un prag foarte jos, de aproximativ o sută de mii de ori sub valoarea actuală.
+> **Ce se deduce:** abaterea dispare în intervalul 2,45-2,32 miliarde de ani. Oxigenul trece atunci peste un prag foarte jos, de aproximativ o sută de mii de ori sub valoarea actuală.
 >
 > **Ce rămâne nedeterminat:** momentul dispariției diferă de la un continent la altul, iar semnătura reapare de câteva ori. Analizele publicate în 2018 pe roci din Australia arată reveniri până după 2,31 miliarde de ani.
 
@@ -36,17 +36,17 @@ După acest moment apar straturile roșii, sedimente în care fierul a fost oxid
 
 Roiul Mistassini, din Quebec, are vârste în jurul valorilor de 2.515 până la 2.500 de milioane de ani. Roiul Matachewan, din Ontario, cuprinde mai multe generații, datate între 2.480 și 2.446 de milioane de ani.
 
-Aceste filoane sunt partea rămasă din provincii magmatice mari, în care s-au revărsat cantități uriașe de lavă. Gazele eliberate au schimbat compoziția atmosferei, iar rocile bazaltice expuse la suprafață consumă oxigen în timp ce se alterează.
+Aceste filoane sunt partea rămasă din provincii magmatice mari[^4], în care s-au revărsat peste 100.000 de kilometri cubi de lavă. Gazele eliberate au schimbat compoziția atmosferei, iar rocile bazaltice expuse la suprafață consumă oxigen în timp ce se alterează.
 
 > #### SURSĂ: roiurile de filoane ca reper
 >
-> Un filon de bazalt se datează prin metoda uraniu-plumb pe badeleit[^4], un mineral care cristalizează în magmă. Aceeași rocă păstrează direcția câmpului magnetic din momentul răcirii.
+> Un filon de bazalt se datează prin metoda uraniu-plumb pe badeleit[^5], un mineral care cristalizează în magmă. Aceeași rocă păstrează direcția câmpului magnetic din momentul răcirii.
 >
 > Combinația dintre vârstă și direcție face din roiuri un reper pentru reconstituirea continentelor vechi. Filoane de 2.512 și de 2.470 de milioane de ani, găsite în cratonul Zimbabwe, se potrivesc cu cele din Superior, ceea ce a dus la propunerea unui bloc continental comun, numit Superia.
 
 ## 3. Glaciațiile huroniene
 
-Între 2,45 și 2,22 miliarde de ani, în Canada și în Africa de Sud se depun diamictite[^5], roci cu blocuri de dimensiuni variate prinse într-o masă fină, tipice pentru transportul de către gheață.
+Între 2,45 și 2,22 miliarde de ani, în Canada și în Africa de Sud se depun diamictite[^6]. Sunt roci cu blocuri de dimensiuni variate prinse într-o masă fină, tipice pentru transportul de către gheață.
 
 Succesiunea huroniană, de lângă lacul Huron, cuprinde trei astfel de intervale, separate de depozite fără urme de gheață. Unele reconstituiri plasează gheața până la latitudini mici.
 
@@ -68,11 +68,11 @@ Explicația propusă leagă răcirea de oxigen. Metanul, un gaz cu efect de ser�
 >
 > #### Citirea B: schimbarea vine din geologie
 >
-> Producția biologică exista de mult, iar ce s-a schimbat este consumul. Gazele vulcanice au devenit mai puțin reducătoare pe măsură ce mantaua s-a răcit, iar continentele emerse au permis îngroparea materiei organice în sedimente, ceea ce lasă oxigenul liber în aer.
+> Producția biologică exista de mult, iar ce s-a schimbat este consumul. Gazele vulcanice au devenit mai puțin reducătoare, adică mai puțin capabile să consume oxigen, pe măsură ce mantaua s-a răcit. Continentele ieșite deasupra apei au permis îngroparea materiei organice în sedimente, ceea ce lasă oxigenul liber în aer.
 >
 > #### Ce poate stabili elevul
 >
-> Cele două citiri cer date de tipuri diferite: prima se verifică pe urme biologice, a doua pe compoziția rocilor vulcanice și pe suprafața de uscat. Elevul poate scrie ce măsurătoare ar sprijini fiecare citire.
+> Cele două citiri au nevoie de date de tipuri diferite: prima se verifică pe urme biologice, a doua pe compoziția rocilor vulcanice și pe suprafața de uscat. Elevul poate scrie ce măsurătoare ar sprijini fiecare citire.
 
 ## 5. Sfârșitul evenimentului
 
@@ -84,7 +84,7 @@ După încheierea acestei anomalii, concentrația oxigenului scade din nou și r
 
 | Momentul | Vârsta | Cum se obține | Statut |
 |---|---|---|---|
-| Boabe de pirită și uraninit nealterate | înainte de 2,4 miliarde de ani | minerale detritice în gresii datate | măsurat |
+| Boabe de pirită și uraninit nealterate | înainte de 2,4 miliarde de ani | minerale detritice[^7] în gresii datate | măsurat |
 | Roiul Mistassini | 2.515-2.500 de milioane de ani | uraniu-plumb pe badeleit | măsurat |
 | Roiul Matachewan | 2.480-2.446 de milioane de ani | uraniu-plumb pe badeleit | măsurat, cu mai multe generații |
 | Dispariția semnăturii de sulf | 2,45-2,32 miliarde de ani | izotopii sulfului în sulfuri sedimentare | măsurat, asincron între continente |
@@ -119,6 +119,10 @@ _______________________________________________________________
 
 [^3]: Filonul este o fisură din scoarță umplută cu magmă care s-a răcit acolo. Un roi de filoane cuprinde sute sau mii de astfel de fisuri, formate în același eveniment vulcanic.
 
-[^4]: Badeleitul este un mineral de zirconiu care cristalizează în magmele sărace în silice, precum cele bazaltice. Primește uraniu în structura sa, ceea ce îl face potrivit pentru datare.
+[^4]: Provinciile magmatice mari sunt regiuni în care s-au revărsat, într-un interval scurt, peste 100.000 de kilometri cubi de lavă și de magmă. Definiția folosită astăzi este cea propusă de Scott Bryan și Richard Ernst în 2008.
 
-[^5]: Diamictitul este o rocă alcătuită din fragmente de dimensiuni foarte diferite, prinse într-o masă fină. Se formează sub ghețari, iar în alte condiții prin alunecări de teren subacvatice.
+[^5]: Badeleitul este un mineral de zirconiu care cristalizează în magmele sărace în silice, precum cele bazaltice. Primește uraniu în structura sa, ceea ce îl face potrivit pentru datare.
+
+[^6]: Diamictitul este o rocă alcătuită din fragmente de dimensiuni foarte diferite, prinse într-o masă fină. Se formează sub ghețari, iar în alte condiții prin alunecări de teren subacvatice.
+
+[^7]: Mineralele detritice sunt boabe smulse dintr-o rocă mai veche și transportate de ape până la locul depunerii. Starea lor arată prin ce medii au trecut pe drum.

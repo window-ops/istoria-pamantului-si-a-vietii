@@ -46,11 +46,11 @@ Modelele actuale descriu o gazdă care consuma hidrogen și un partener bacteria
 >
 > În roci de 1,6-1,7 miliarde de ani apar microfosile cu pereți ornamentați, numite acritarce[^3], greu de atribuit unor celule procariote. În roci de aceeași vârstă au fost găsite molecule organice care provin din pereți celulari de tip eucariot.
 >
-> Cea mai veche fosilă atribuită unui organism pluricelular cu nucleu este alga roșie Bangiomorpha, dintr-o rocă din nordul Canadei datată la 1,05 miliarde de ani. Ceasurile moleculare dau pentru ultimul strămoș comun al eucariotelor actuale vârste între 1,8 și 1,1 miliarde de ani.
+> Cea mai veche fosilă atribuită unui organism pluricelular cu nucleu este alga roșie Bangiomorpha, dintr-o rocă din nordul Canadei datată la 1,05 miliarde de ani. Ceasurile moleculare[^4] dau pentru ultimul strămoș comun al eucariotelor actuale vârste între 1,8 și 1,1 miliarde de ani.
 >
 > #### Citirea A: eucariotele sunt mai vechi decât fosilele acceptate
 >
-> Fosilizarea unei celule fără perete mineral este rară, iar biomarkerii[^4] arată prezența acestor celule înainte de primele fosile sigure. Absența fosilelor măsoară condițiile de păstrare.
+> Fosilizarea unei celule fără perete mineral este rară, iar biomarkerii[^5] arată prezența acestor celule înainte de primele fosile sigure. Absența fosilelor măsoară condițiile de păstrare.
 >
 > #### Citirea B: grupul se răspândește târziu
 >
@@ -87,7 +87,7 @@ Spre sfârșitul intervalului, cea mai mare parte a uscatului se adună într-un
 | Structuri interne de fotosinteză | 1,75 miliarde de ani | microscopie pe microfosile, publicat în 2024 | interpretare a unui singur set de probe |
 | Bangiomorpha, algă roșie pluricelulară | 1,05 miliarde de ani | fosile în roci datate | atribuire larg citată |
 | Ultimul strămoș comun al eucariotelor | 1,8-1,1 miliarde de ani | ceas molecular | dedus, depinde de calibrare |
-| Rodinia | 1,1 miliarde - 750 de milioane de ani | paleomagnetism și corelări de straturi | model, cu variante concurente |
+| Rodinia | 1,1 miliarde - 750 de milioane de ani | paleomagnetism[^6] și corelări de straturi | model, cu variante concurente |
 
 ## Activități și exerciții
 
@@ -116,4 +116,8 @@ _______________________________________________________________
 
 [^3]: Acritarcele sunt microfosile cu perete organic, de formă sferică sau cu prelungiri, a căror apartenență biologică rămâne nesigură. Se folosesc pentru datarea relativă a rocilor precambriene și paleozoice.
 
-[^4]: Biomarkerii sunt molecule organice rezistente, păstrate în rocă, a căror structură trimite la grupul de organisme care le-a produs. Folosirea lor are nevoie de dovada că nu au pătruns în rocă mai târziu.
+[^4]: Ceasul molecular este metoda prin care vârsta despărțirii a două grupuri se estimează din numărul de diferențe acumulate între genele lor. Rezultatul depinde de ritmul presupus al acestor schimbări și de fosilele folosite la calibrare.
+
+[^5]: Biomarkerii sunt molecule organice rezistente, păstrate în rocă, a căror structură trimite la grupul de organisme care le-a produs. Folosirea lor are nevoie de dovada că nu au pătruns în rocă mai târziu.
+
+[^6]: Paleomagnetismul este studiul direcției și al tăriei câmpului magnetic păstrate în roci din momentul formării lor. Din direcția măsurată se calculează latitudinea la care se afla roca atunci.

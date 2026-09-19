@@ -20,9 +20,9 @@ Schimbarea privește deopotrivă felul de a trăi. Urmele de săpat din sediment
 >
 > Zăcământul de la Chengjiang, din China, are 518 milioane de ani, iar cel din șisturile Burgess, din Canada, are 508 milioane de ani. Ele arată că majoritatea animalelor din acele mări nu ar fi lăsat nicio urmă în condiții obișnuite de fosilizare.
 
-Diversificarea numită explozia cambriană se întinde pe circa 20 de milioane de ani, între 538 și 515 milioane de ani. La scara unei vieți de om intervalul este imens, iar la scara eonului ocupă sub o douăzecea parte.
+Diversificarea numită explozia cambriană se întinde pe circa 20 de milioane de ani, între 538 și 515 milioane de ani. Intervalul acoperă de câteva sute de mii de ori durata unei vieți de om, iar la scara eonului ocupă sub o douăzecea parte.
 
-Grupurile de animale actuale apar în acest interval sub forma unor reprezentanți timpurii, alături de forme care dispar fără descendenți. Moluștele, artropodele și cordatele au toate reprezentanți în zăcămintele amintite.
+Grupurile de animale actuale apar în acest interval sub forma unor reprezentanți timpurii, alături de forme care dispar fără descendenți. Moluștele, artropodele și cordatele[^2] au toate reprezentanți în zăcămintele amintite.
 
 ## 3. De ce atunci
 
@@ -40,7 +40,7 @@ Grupurile de animale actuale apar în acest interval sub forma unor reprezentan�
 >
 > #### Citirea B: lanțul ecologic
 >
-> Apariția prădătorilor a pornit o competiție între apărare și atac: cochilii mai groase, ochi, viteză, săpat mai adânc. Schimbarea de mediu a fost întreținută de organismele înseși, fără a cere un prag exterior.
+> Apariția prădătorilor a pornit o competiție între apărare și atac: cochilii mai groase, ochi, viteză, săpat mai adânc. Schimbarea de mediu a fost întreținută de organismele înseși, fără a avea nevoie de un prag exterior.
 >
 > #### Ce poate stabili elevul
 >
@@ -50,7 +50,7 @@ Grupurile de animale actuale apar în acest interval sub forma unor reprezentan�
 
 Ordovicianul ține de la 486,85 până la 443,1 milioane de ani. Viața marină se diversifică mai departe, iar numărul de familii de nevertebrate crește de câteva ori față de Cambrian.
 
-Recifele sunt construite acum de corali și de bureți calcaroși. Graptoliții[^2], colonii plutitoare care lasă în rocă urme asemănătoare unor desene cu creionul, se schimbă repede și devin principalul instrument de corelare a straturilor din această perioadă.
+Recifele sunt construite acum de corali și de bureți calcaroși. Graptoliții[^3], colonii plutitoare care lasă în rocă urme asemănătoare unor desene cu creionul, se schimbă repede și devin principalul instrument de corelare a straturilor din această perioadă.
 
 În aceeași perioadă, o coliziune din centura de asteroizi a trimis spre Pământ o cantitate mare de material. Meteoritele căzute atunci se găsesc în calcarele suedeze de circa 466 de milioane de ani.
 
@@ -72,9 +72,11 @@ Efectul acestor plante asupra uscatului rămâne discutat. Rădăcinile simple �
 
 ## 6. Extincția de la sfârșitul Ordovicianului
 
-Între 445,2 și 443,1 milioane de ani dispare o mare parte din viața marină, în două impulsuri separate de câteva sute de mii de ani. Estimările uzuale dau în jur de 85% dintre speciile marine, cifră obținută din numărul de genuri dispărute.
+Între 445,2 și 443,1 milioane de ani dispare o mare parte din viața marină, în două impulsuri separate de câteva sute de mii de ani.
 
-Primul impuls coincide cu extinderea calotei de gheață peste Gondwana, continentul aflat atunci peste polul sud. Nivelul mării scade, iar mediile de pe platformele continentale dispar odată cu apa.
+Sinteza publicată de Peter Sheehan în Annual Review of Earth and Planetary Sciences, în 2001, dă în jur de 85% dintre speciile marine. Cifra se obține prin extrapolare de la genurile și familiile dispărute, numărate direct în baze de date.
+
+Primul impuls coincide cu extinderea calotei[^4] de gheață peste Gondwana, continentul aflat atunci peste polul sud. Nivelul mării scade, iar mediile de pe platformele continentale[^5] dispar odată cu apa.
 
 Al doilea impuls coincide cu topirea calotei și cu revenirea apelor sărace în oxigen peste platforme. Grupurile lovite sunt cele adaptate la apă rece, apoi cele adaptate la apă bine oxigenată.
 
@@ -94,7 +96,7 @@ Al doilea impuls coincide cu topirea calotei și cu revenirea apelor sărace în
 | Șisturile Burgess | 508 milioane de ani | datarea straturilor din jur | măsurat |
 | Spori de plante terestre | circa 470 de milioane de ani | microfosile în roci marine datate | dedus din structura peretelui |
 | Căderea de meteorite din Suedia | circa 466 de milioane de ani | meteorite în calcare datate | măsurat, fără legătură stabilită cu diversificarea |
-| Extincția de la sfârșitul Ordovicianului | 445,2-443,1 milioane de ani | dispariția taxonilor din baze de date | măsurat, procentele depind de eșantion |
+| Extincția de la sfârșitul Ordovicianului | 445,2-443,1 milioane de ani | dispariția taxonilor[^6] din baze de date | măsurat, procentele depind de eșantion |
 
 ## Activități și exerciții
 
@@ -119,4 +121,12 @@ _______________________________________________________________
 
 [^1]: Trilobiții sunt artropode marine dispărute, cu corpul împărțit în trei lobi pe lungime și acoperit de un schelet extern calcaros. Au trăit din Cambrian până la sfârșitul Permianului.
 
-[^2]: Graptoliții sunt animale coloniale marine, dispărute, ale căror colonii ramificate lasă în rocă urme asemănătoare unor desene cu creionul. Se folosesc pentru datarea straturilor din Ordovician și Silurian.
+[^2]: Cordatele sunt animalele care au, cel puțin într-un stadiu al vieții, o tijă de susținere de-a lungul spatelui. Din acest grup fac parte vertebratele.
+
+[^3]: Graptoliții sunt animale coloniale marine, dispărute, ale căror colonii ramificate lasă în rocă urme asemănătoare unor desene cu creionul. Se folosesc pentru datarea straturilor din Ordovician și Silurian.
+
+[^4]: Calota glaciară este masa de gheață care acoperă continuu o suprafață mare de uscat, precum Antarctica și Groenlanda de astăzi. Se deosebește de ghețarii de vale prin întindere și prin grosime.
+
+[^5]: Platforma continentală este porțiunea de fund de mare care prelungește continentul sub apă, până la adâncimi de circa 200 de metri. Pe ea se depun cele mai multe sedimente marine.
+
+[^6]: Taxonul este un grup de organisme recunoscut și numit în clasificare, la orice treaptă: specie, gen, familie, încrengătură. Procentele de dispariție se calculează de obicei pe genuri, fiindcă genurile se recunosc mai sigur în fosile decât speciile.

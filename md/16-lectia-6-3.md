@@ -1,6 +1,6 @@
 # Lecția 6.3: Biodiversitatea, clima și omul ca agent geologic
 
-Ultima lecție se ocupă de intervalul în care trăiește cititorul. Întrebarea pusă aici este aceeași ca în restul cărții: ce anume din activitatea omenească se măsoară în rocă, în aer și în ghețuri și ce se poate deduce din aceste măsurători.
+Lecția se ocupă de intervalul în care trăiește cititorul: ce anume din activitatea omenească se măsoară în rocă, în aer și în ghețuri și ce se poate deduce din aceste măsurători.
 
 Concluziile despre ce ar trebui făcut aparțin altor discipline și nu se află în această carte.
 
@@ -14,9 +14,9 @@ Concluziile despre ce ar trebui făcut aparțin altor discipline și nu se află
 
 Debitele se pot compara direct. Râurile lumii duc spre mări câteva zeci de miliarde de tone de sediment pe an, iar excavările depășesc această cantitate.
 
-Materialele produse de om se depun și ele. Betonul, cărămida, plasticul, zgura și cenușa formează straturi în orașe, în halde și pe fundul apelor, iar unele dintre ele rezistă mult timp.
+Materialele produse de om se depun și ele. Betonul, cărămida, plasticul, zgura[^1] și cenușa formează straturi în orașe, în halde și pe fundul apelor, iar unele dintre ele rezistă mult timp.
 
-Un reper chimic este mai ușor de urmărit. Testele nucleare atmosferice dintre 1945 și 1963 au împrăștiat izotopi care se regăsesc în sedimente[^1], în ghețuri și în inelele copacilor din toată lumea, cu un maxim în jurul anului 1964.
+Un reper chimic este mai ușor de urmărit. Testele nucleare atmosferice dintre 1945 și 1963 au împrăștiat izotopi care se regăsesc în sedimente[^2], în ghețuri și în inelele copacilor din toată lumea, cu un maxim în jurul anului 1964.
 
 ## 2. Antropocenul
 
@@ -34,7 +34,9 @@ Argumentele în favoarea ei privesc semnalele din sedimente, care sunt clare, si
 
 ## 3. Dioxidul de carbon din aer
 
-Măsurătorile continue de la observatorul Mauna Loa, din Hawaii, încep în 1958 și dau cea mai lungă serie directă. Media anuală globală a fost de 427 de părți la un milion în 2025, iar prognoza pentru 2026 este de 429 la Mauna Loa.
+Măsurătorile continue de la observatorul Mauna Loa, din Hawaii, încep în 1958 și dau cea mai lungă serie directă. Media anuală de acolo a fost de 427,1 părți la un milion[^3] în 2025, iar prognoza publicată de serviciul meteorologic britanic pentru 2026 este de 429,4, cu o marjă de 0,6.
+
+Media globală se calculează pe o rețea de stații marine și este cu circa 1,4 părți la un milion mai mică decât valoarea de la Mauna Loa.
 
 Comparația cu ghețurile arată deosebirea. În ultimii 800 de mii de ani, valoarea a rămas între 180 și 300 de părți la un milion. Creșterea din ultimele decenii este mult mai rapidă decât orice creștere naturală din acel interval.
 
@@ -66,7 +68,7 @@ Comparația cu ghețurile arată deosebirea. În ultimii 800 de mii de ani, valo
 >
 > #### Citirea B: pragul nu este atins
 >
-> Un eveniment se definește prin ce s-a petrecut, nu prin proiecție. Pierderile de până acum rămân departe de pragul folosit pentru cele cinci extincții din trecut, iar extrapolarea presupune că ritmul se menține.
+> Un eveniment se definește prin ce s-a petrecut, nu prin proiecție. Pierderile de până acum rămân departe de pragul folosit pentru cele cinci extincții din trecut, iar extrapolarea[^4] presupune că ritmul se menține.
 >
 > #### Ce poate stabili elevul
 >
@@ -88,7 +90,7 @@ Straturile din orașe s-ar păstra numai acolo unde se depun sedimente peste ele
 |---|---|---|---|
 | Material mutat de activitatea omenească | peste totalul râurilor | calcule pe volume de excavație | estimare |
 | Maximul izotopilor din teste nucleare | în jurul anului 1964 | măsurători în sedimente, ghețuri, inele de copac | măsurat |
-| Media globală a dioxidului de carbon | 427 de părți la un milion în 2025 | măsurători directe, rețea globală | măsurat |
+| Media anuală la Mauna Loa | 427,1 părți la un milion în 2025 | măsurători directe, o singură stație | măsurat |
 | Interval natural din ultimii 800 de mii de ani | 180-300 de părți la un milion | aer prins în carote de gheață | măsurat |
 | Ritmul actual de dispariție | de zeci până la sute de ori peste fond | liste de specii și înregistrare fosilă | estimare, grupurile puțin studiate lipsesc |
 | Antropocenul ca epocă | propus pentru mijlocul secolului al XX-lea | vot în organismele de stratigrafie | respins în 2024 |
@@ -114,4 +116,10 @@ _______________________________________________________________
 
 ## Note
 
-[^1]: Izotopii sunt forme ale aceluiași element cu număr diferit de neutroni. Testele nucleare au împrăștiat izotopi care lipseau înainte din natură, ceea ce îi face ușor de recunoscut.
+[^1]: Zgura este resturile solide rămase după topirea minereurilor sau după arderea cărbunelui. Ea se adună în halde și rezistă mult timp în sedimente.
+
+[^2]: Izotopii sunt forme ale aceluiași element cu număr diferit de neutroni. Testele nucleare au împrăștiat izotopi care lipseau înainte din natură, ceea ce îi face ușor de recunoscut.
+
+[^3]: Părțile la un milion arată câte molecule dintr-un milion sunt de substanța măsurată. O valoare de 427 de părți la un milion înseamnă 427 de molecule de dioxid de carbon la un milion de molecule de aer uscat.
+
+[^4]: Extrapolarea este prelungirea unei tendințe măsurate dincolo de intervalul în care a fost măsurată. Rezultatul depinde de presupunerea că tendința se menține.

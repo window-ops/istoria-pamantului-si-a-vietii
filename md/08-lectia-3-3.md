@@ -8,7 +8,7 @@ Lecția arată cum se stabilește că gheața a atins latitudini mici, ce explic
 
 Începând de la circa 750 de milioane de ani, supercontinentul Rodinia se rupe în blocuri separate de bazine noi. Rupturile sunt însoțite de vulcanism și de creșterea suprafeței de rocă proaspătă expusă la ploaie.
 
-Alterarea rocilor bazaltice consumă dioxid de carbon din atmosferă, care ajunge în ocean sub formă de carbonați. O suprafață mare de bazalt așezată în zona tropicală, unde ploaia și căldura grăbesc reacția, scade cantitatea de dioxid de carbon din aer.
+Alterarea rocilor bazaltice[^1] consumă dioxid de carbon din atmosferă, care ajunge în ocean sub formă de carbonați. O suprafață mare de bazalt așezată în zona tropicală, unde ploaia și căldura grăbesc reacția, scade cantitatea de dioxid de carbon din aer.
 
 ## 2. Gheață la ecuator
 
@@ -18,9 +18,9 @@ Depozitele lăsate de gheață se găsesc pe toate continentele de atunci. Direc
 
 > #### CONCEPT: Pământul bulgăre de zăpadă
 >
-> Gheața reflectă lumina mai bine decât apa sau uscatul. O calotă care se întinde răcește planeta, ceea ce face gheața să se întindă mai departe, într-un lanț care se autoîntreține sub o anumită latitudine.
+> Gheața reflectă lumina mai bine decât apa sau uscatul. O calotă[^2] care se întinde răcește planeta, ceea ce face gheața să se întindă mai departe, într-un lanț care se autoîntreține sub o anumită latitudine.
 >
-> Ieșirea din această stare se face prin dioxid de carbon. Vulcanii continuă să emită gaze, iar alterarea rocilor, oprită sub gheață, nu le mai consumă, așa că atmosfera se încarcă până când efectul de seră topește calota. Peste depozitele glaciare se depun atunci carbonați de acoperire[^1], groși de zeci de metri.
+> Ieșirea din această stare se face prin dioxid de carbon. Vulcanii continuă să emită gaze, iar alterarea rocilor, oprită sub gheață, nu le mai consumă, așa că atmosfera se încarcă până când efectul de seră topește calota. Peste depozitele glaciare se depun atunci carbonați de acoperire[^3], groși de zeci de metri.
 
 Durata celor două glaciații diferă mult: aproximativ 56 de milioane de ani pentru cea sturtiană și sub 16 milioane pentru cea marinoană.
 
@@ -30,13 +30,13 @@ Durata celor două glaciații diferă mult: aproximativ 56 de milioane de ani pe
 >
 > #### Ce este documentat
 >
-> Provincia magmatică Franklin, din nordul Canadei, s-a format între 719,86 și 718,61 milioane de ani, după datări publicate în revista Science Advances în 2022. Începutul glaciației este fixat între 717,4 și 716,9 milioane de ani. Lavele acestei provincii se aflau atunci în zona tropicală.
+> Provincia magmatică Franklin[^4], din nordul Canadei, s-a format între 719,86 și 718,61 milioane de ani, după datări publicate în revista Science Advances în 2022. Începutul glaciației este fixat între 717,4 și 716,9 milioane de ani. Lavele acestei provincii se aflau atunci în zona tropicală.
 >
-> Un studiu publicat în revista Geology în 2024 arată că, în același interval, cantitatea de dioxid de carbon eliberată de dorsalele oceanice era la un minim al ultimului miliard de ani.
+> Adriana Dutkiewicz, Andrew Merdith și colaboratorii au publicat în revista Geology, în 2024, o comparație a două modele tectonice pentru același interval. Într-unul dintre ele, dioxidul de carbon eliberat de dorsalele oceanice[^5] se află la un minim al ultimului miliard de ani, iar celălalt dă valori mari, care ar exclude o glaciație.
 >
 > #### Citirea A: alterarea lavelor tropicale
 >
-> Suprafața uriașă de bazalt proaspăt, așezată în zona ploilor tropicale, a consumat dioxid de carbon suficient pentru a împinge clima peste pragul de la care gheața se extinde singură. Diferența de circa un milion de ani între vulcanism și glaciație corespunde timpului necesar alterării.
+> Suprafața mare de bazalt proaspăt, așezată în zona ploilor tropicale, a consumat dioxid de carbon suficient pentru a împinge clima peste pragul de la care gheața se extinde singură. Diferența de circa un milion de ani între vulcanism și glaciație corespunde timpului necesar alterării.
 >
 > #### Citirea B: emisia scăzută din dorsale
 >
@@ -79,7 +79,7 @@ Tot în Ediacaran apar primele urme de deplasare pe fundul mării și primele or
 | Elementul | Vârsta | Cum se obține | Statut |
 |---|---|---|---|
 | Destrămarea Rodiniei | de la circa 750 de milioane de ani | paleomagnetism, roiuri de filoane | model, cu variante |
-| Provincia magmatică Franklin | 719,86-718,61 milioane de ani | uraniu-plumb pe zircon și badeleit[^2] | măsurat |
+| Provincia magmatică Franklin | 719,86-718,61 milioane de ani | uraniu-plumb pe zircon și badeleit[^6] | măsurat |
 | Glaciația sturtiană | 717-661 de milioane de ani | datarea rocilor din jurul depozitelor glaciare | măsurat |
 | Gheață la latitudini mici | criogenian | direcția magnetică în roci glaciare | măsurat, pe un număr limitat de situri |
 | Glaciația marinoană | încheiată la 635 de milioane de ani | datarea carbonaților de acoperire | măsurat |
@@ -106,6 +106,14 @@ _______________________________________________________________
 
 ## Note
 
-[^1]: Carbonații de acoperire sunt straturi de calcar sau de dolomit depuse direct peste depozitele glaciare, în perioada de încălzire care urmează topirii. Grosimea și compoziția lor se folosesc pentru datarea sfârșitului glaciației.
+[^1]: Alterarea este descompunerea rocii la suprafață sub acțiunea apei, a aerului și a organismelor. Alterarea rocilor bazaltice consumă dioxid de carbon din atmosferă și îl trimite în ocean sub formă de carbonați.
 
-[^2]: Zirconul este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.
+[^2]: Calota glaciară este masa de gheață care acoperă continuu o suprafață mare de uscat, precum Antarctica și Groenlanda de astăzi. Se deosebește de ghețarii de vale prin întindere și prin grosime.
+
+[^3]: Carbonații de acoperire sunt straturi de calcar sau de dolomit depuse direct peste depozitele glaciare, în perioada de încălzire care urmează topirii. Grosimea și compoziția lor se folosesc pentru datarea sfârșitului glaciației.
+
+[^4]: Provinciile magmatice mari sunt regiuni în care s-au revărsat, într-un interval scurt, peste 100.000 de kilometri cubi de lavă și de magmă. Definiția folosită astăzi este cea propusă de Scott Bryan și Richard Ernst în 2008.
+
+[^5]: Dorsalele oceanice sunt lanțuri vulcanice de pe fundul oceanelor, în lungul cărora se formează scoarță nouă. Pe lângă lavă, ele eliberează în apă și dioxid de carbon venit din manta.
+
+[^6]: Zirconul este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.

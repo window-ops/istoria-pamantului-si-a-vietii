@@ -8,7 +8,7 @@ Lecția urmărește impactul care a format Luna, răcirea suprafeței, apariția
 
 Modelul folosit în literatură pentru formarea Lunii pornește de la ciocnirea Pământului cu un corp de mărimea planetei Marte, numit Theia. Materialul aruncat pe orbită s-a adunat și a format satelitul.
 
-Modelul se sprijină pe trei observații. Prima este nucleul metalic al Lunii, mic față de masa ei, ceea ce se potrivește cu material provenit din mantaua unui corp deja diferențiat.
+Modelul se sprijină pe trei observații. Prima este nucleul metalic al Lunii, mic față de masa ei, ceea ce se potrivește cu material provenit din mantaua unui corp care se separase deja în nucleu și manta.
 
 A doua observație este rotația rapidă a sistemului Pământ-Lună, greu de explicat prin captura unui corp străin. A treia este compoziția izotopică a oxigenului din rocile lunare, aproape identică cu cea terestră.
 
@@ -36,7 +36,7 @@ Energia impactului a topit o mare parte a planetei. Suprafața a rămas un ocean
 
 Răcirea a fost rapidă la scară geologică, fiindcă un corp topit pierde căldură prin radiație. Modelele termice dau ordine de mărime de la câteva milioane la câteva zeci de milioane de ani pentru solidificarea stratului de suprafață.
 
-Pe Lună, același proces a lăsat urme care se pot examina direct. Crusta lunară veche este formată din anortozit, o rocă ușoară care plutea în oceanul de magmă, iar cristalizarea lui s-a încheiat, după modelele termice, în 150 până la 200 de milioane de ani.
+Pe Lună, același proces a lăsat urme care se pot examina direct. Crusta lunară veche este formată din anortozit[^2], o rocă ușoară care plutea în oceanul de magmă, iar cristalizarea lui s-a încheiat, după modelele termice, în 150 până la 200 de milioane de ani.
 
 ## 4. Cele mai vechi urme de apă lichidă
 
@@ -54,11 +54,11 @@ Concluzia obișnuită este că apa lichidă exista la suprafață cu peste 4,3 m
 
 ## 5. Atmosfera Hadeanului
 
-Gazele au ieșit din interior prin vulcanism, proces numit degazare[^2]. Atmosfera rezultată conținea dioxid de carbon, azot, vapori de apă și cantități mai mici de alte gaze.
+Gazele au ieșit din interior prin vulcanism, proces numit degazare[^3]. Atmosfera rezultată conținea dioxid de carbon, azot, vapori de apă și cantități mai mici de alte gaze.
 
 Oxigenul liber lipsea. Această afirmație se sprijină pe minerale care se descompun în prezența oxigenului și care se găsesc în depozite de vârstă arhaică, transportate de ape ca boabe nealterate.
 
-Proporțiile din atmosfera hadeană rămân nedeterminate. Estimările provin din modele și din incluziuni de gaz păstrate în minerale, iar valorile diferă mult de la un studiu la altul.
+Proporțiile din atmosfera hadeană rămân nedeterminate. Estimările provin din modele și din incluziuni de gaz[^4] păstrate în minerale, iar valorile diferă mult de la un studiu la altul.
 
 ## 6. Bombardamentul de la sfârșitul Hadeanului
 
@@ -68,7 +68,7 @@ Proporțiile din atmosfera hadeană rămân nedeterminate. Estimările provin di
 >
 > Probele aduse de misiunile Apollo conțin roci topite prin impact, ale căror vârste se grupează între 3,8 și 4,0 miliarde de ani.
 >
-> Suprafața Lunii păstrează bazine de impact[^3] de sute de kilometri, iar suprafețele vechi ale lui Marte și ale lui Mercur arată o densitate mare de cratere.
+> Suprafața Lunii păstrează bazine de impact[^5] de sute de kilometri, iar suprafețele vechi ale lui Marte și ale lui Mercur arată o densitate mare de cratere.
 >
 > #### Citirea A: un vârf de bombardament
 >
@@ -88,7 +88,7 @@ Ediția întâi a acestui manual a lăsat subiectul deoparte, iar auxiliarul din
 
 ## 7. Sfârșitul Hadeanului
 
-Hadeanul se încheie la 4.031 de milioane de ani, cu o marjă de 3 milioane. Limita a fost ratificată în 2023 și este dată de cele mai vechi zece vârste obținute prin metoda uraniu-plumb pe zirconii din Complexul Acasta, un ansamblu de gnaisuri[^4] din nord-vestul Canadei.
+Hadeanul se încheie la 4.031 de milioane de ani, cu o marjă de 3 milioane. Limita a fost ratificată în 2023 și este dată de cele mai vechi zece vârste obținute prin metoda uraniu-plumb pe zirconii din Complexul Acasta, un ansamblu de gnaisuri[^6] din nord-vestul Canadei.
 
 > #### SURSĂ: limitele fixate printr-o cifră
 >
@@ -130,8 +130,12 @@ _______________________________________________________________
 
 [^1]: Zirconul este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.
 
-[^2]: Degazarea este ieșirea gazelor dizolvate în magmă atunci când aceasta ajunge aproape de suprafață, unde presiunea scade. Vulcanii sunt principala cale prin care interiorul planetei își trimite gazele în atmosferă.
+[^2]: Anortozitul este o rocă magmatică alcătuită aproape numai din feldspat plagioclaz, mineral ușor și deschis la culoare. Cristalele lui pluteau în oceanul de magmă lunar și au format crusta veche a Lunii.
 
-[^3]: Bazinele de impact sunt cratere de dimensiuni mari, de sute de kilometri, formate prin ciocnirea cu asteroizi. Pe Lună au fost apoi umplute parțial cu lavă, iar petele întunecate vizibile de pe Pământ sunt aceste umpluturi.
+[^3]: Degazarea este ieșirea gazelor dizolvate în magmă atunci când aceasta ajunge aproape de suprafață, unde presiunea scade. Vulcanii sunt principala cale prin care interiorul planetei își trimite gazele în atmosferă.
 
-[^4]: Gnaisul este o rocă metamorfică cu minerale dispuse în benzi deschise și închise la culoare. Se formează din roci mai vechi, supuse temperaturii și presiunii în adâncime.
+[^4]: Incluziunile sunt corpuri străine, solide, lichide sau gazoase, prinse în interiorul unui mineral sau al unei roci la formarea acesteia. Compoziția lor păstrează condițiile din momentul formării, motiv pentru care se folosesc la datare și la reconstituirea mediilor vechi.
+
+[^5]: Bazinele de impact sunt cratere de dimensiuni mari, de sute de kilometri, formate prin ciocnirea cu asteroizi. Pe Lună au fost apoi umplute parțial cu lavă, iar petele întunecate vizibile de pe Pământ sunt aceste umpluturi.
+
+[^6]: Gnaisul este o rocă metamorfică cu minerale dispuse în benzi deschise și închise la culoare. Se formează din roci mai vechi, supuse temperaturii și presiunii în adâncime.

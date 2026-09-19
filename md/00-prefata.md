@@ -1,6 +1,6 @@
 # Prefață
 
-Cartea de față este un curs de geologie pentru liceu, scris pentru toate profilurile. Ea povestește istoria Pământului de la formarea sistemului solar până la starea planetei de astăzi și arată, la fiecare pas, din ce anume se știe ceea ce se afirmă.
+Cartea de față este un curs de geologie pentru liceu, scris pentru toate profilurile. Ea prezintă istoria Pământului de la formarea sistemului solar până la starea planetei de astăzi și arată, la fiecare pas, din ce anume se știe ceea ce se afirmă.
 
 Aceasta este ediția a II-a, revizuită, și înlocuiește ediția din 2025. Redactarea s-a încheiat în septembrie 2026, iar datele cuprinse aici sunt cele publicate până la acea dată.
 
@@ -26,11 +26,11 @@ Ediția a II-a desființează auxiliarul și mută acel conținut în lecțiile 
 
 ## Standardul de fapt
 
-Manualele școlare românești au tolerat multă vreme greșeli care supraviețuiesc din ediție în ediție, fiindcă nimeni nu are obligația să le caute, iar corectura costă mai mult decât retipărirea. Cartea de față își fixează un standard mai strict.
+Greșelile dintr-un manual școlar se transmit de la o ediție la alta în lipsa unei verificări la fiecare retipărire. Cartea de față își fixează un standard mai strict.
 
 Vârstele urmează scara Comisiei Internaționale de Stratigrafie, în versiunea din iunie 2026, numită ca atare în lecția 0 și reprodusă în anexă. O cifră preluată din literatură vine cu marja ei atunci când literatura o dă, iar o cifră estimată indirect este prezentată ca estimare.
 
-Trecerea de la observație la concluzie este arătată, deoarece în geologie ea are mai multe verigi decât pare. O rocă se observă, un raport izotopic se măsoară, iar o temperatură de acum trei miliarde de ani se deduce dintr-un model. Casetele DOVADA separă aceste trei lucruri de fiecare dată când afirmația o cere.
+Trecerea de la observație la concluzie este arătată, deoarece în geologie ea are mai multe verigi decât pare. O rocă se observă, un raport izotopic se măsoară, iar o temperatură de acum trei miliarde de ani se deduce dintr-un model. Casetele DOVADA separă aceste trei lucruri ori de câte ori afirmația are nevoie de această separare.
 
 Acolo unde literatura se împarte, manualul spune că se împarte și expune ambele citiri cu argumentele lor, în casete INTERPRETARE. Acolo unde un lucru rămâne necunoscut, scrie că rămâne necunoscut.
 
@@ -50,7 +50,7 @@ Fiecare lecție are între 8.300 și 10.700 de semne, cu o medie în jurul a 9.2
 
 În afară de casetele DOVADA și INTERPRETARE, textul folosește casete CONCEPT, pentru noțiunile care revin pe tot parcursul cărții. Casetele SURSĂ descriu pe scurt ce fel de document este cel invocat și cine îl emite.
 
-Fiecare lecție se încheie cu cinci exerciții, rezolvabile din lecție și din ce are elevul la îndemână. Ele cer o explicație, o analiză de tabel sau de schemă, un calcul simplu pe datele din text, o discuție pe o casetă INTERPRETARE și o temă scrisă.
+Fiecare lecție se încheie cu cinci exerciții, rezolvabile din lecție și din ce are elevul la îndemână. Ele cuprind o explicație, o analiză de tabel sau de schemă, un calcul simplu pe datele din text, o discuție pe o casetă INTERPRETARE și o temă scrisă.
 
 Deplasările pe teren și aparatura rămân în afara cerințelor, fiindcă un manual general se adresează și claselor care nu au acces la ele.
 
@@ -62,4 +62,4 @@ Dezbaterea politică și economică din jurul schimbărilor climatice rămâne �
 
 Autorul este pasionat de sociologie și de istorie, fără pregătire de geolog. Această situație a produs greșelile ediției I. Ediția a II-a se sprijină pe surse numite și pe reguli scrise, așa că cititorul poate verifica fiecare afirmație fără să aibă încredere în cine a scris-o.
 
-Lectura acestei cărți se face cu creionul și acces la internet. Exercițiile pornesc de la ideea că elevul verifică ce citește, inclusiv aici.
+Lectura acestei cărți se face cu creionul în mână și cu acces la internet. Exercițiile pornesc de la ideea că elevul verifică ce citește, inclusiv aici.

@@ -32,7 +32,7 @@ Printre lavele arhaice se găsesc komatiite[^4], roci bogate în magneziu, care 
 
 > #### DOVADA: temperatura mantalei arhaice
 >
-> **Ce se observă:** curgeri de lavă cu cristale lungi și subțiri de olivină, dispuse în evantai, care se formează la răcirea rapidă a unei topituri foarte fierbinți.
+> **Ce se observă:** curgeri de lavă cu cristale lungi și subțiri de olivină, un mineral bogat în magneziu și fier, dispuse în evantai, care se formează la răcirea rapidă a unei topituri foarte fierbinți.
 >
 > **Ce se măsoară:** conținutul de magneziu al rocii și compoziția cristalelor, comparate cu topituri obținute în laborator la presiuni și temperaturi controlate.
 >
@@ -44,9 +44,9 @@ Căldura venea din dezintegrarea elementelor radioactive, mai abundente atunci d
 
 ## 4. Oceane și sedimente
 
-Lavele de la Isua au forme rotunjite, ca niște perne suprapuse, care se produc atunci când lava erupe sub apă. Aceleași forme se observă astăzi pe fundul oceanelor, în lungul dorsalelor.
+Lavele de la Isua au forme rotunjite, ca niște perne suprapuse, care se produc atunci când lava erupe sub apă. Aceleași forme se observă astăzi pe fundul oceanelor, în lungul dorsalelor, lanțurile vulcanice de pe fundul oceanelor.
 
-În aceeași centură există roci sedimentare formate din particule transportate de apă, precum și depozite de fier bandat, alcătuite din straturi alternante bogate în fier și în silice. Existența oceanelor în Arhaicul timpuriu se sprijină pe aceste două categorii de roci.
+În aceeași centură există roci sedimentare formate din particule transportate de apă, precum și depozite de fier bandat[^5], alcătuite din straturi alternante bogate în fier și în silice. Existența oceanelor în Arhaicul timpuriu se sprijină pe aceste două categorii de roci.
 
 > #### SURSĂ: articolul de geocronologie
 >
@@ -62,9 +62,9 @@ Lavele de la Isua au forme rotunjite, ca niște perne suprapuse, care se produc 
 >
 > Rocile păstrează direcția câmpului magnetic din momentul formării, ceea ce permite calculul latitudinii la care se aflau. Comparând latitudini succesive ale aceleiași zone, se obține o viteză de deplasare.
 >
-> Roger Fu, Alec Brenner și colaboratorii au publicat în revista Science, în martie 2026, măsurători pe peste 900 de carote din cratonul Pilbara. Acum 3,48 miliarde de ani, cratonul se deplasa în latitudine și se rotea, în timp ce centura Barberton din Africa de Sud rămânea aproape pe loc.
+> Roger Fu, Alec Brenner și colaboratorii au publicat în revista Science, în martie 2026, măsurători pe peste 900 de carote[^6] din cratonul Pilbara. Acum 3,48 miliarde de ani, cratonul se deplasa în latitudine și se rotea, în timp ce centura Barberton din Africa de Sud rămânea aproape pe loc.
 >
-> O lucrare publicată în 2020 dăduse pentru același craton o viteză de cel puțin 2,5 centimetri pe an în jurul valorii de 3,18 miliarde de ani.
+> Alec Brenner, Roger Fu și colaboratorii publicaseră un rezultat mai vechi în Science Advances, în 2020. Pentru același craton, ei au calculat o deplasare în latitudine de cel puțin 2,5 centimetri pe an, pe cele circa 170 de milioane de ani dinaintea valorii de 3,18 miliarde de ani.
 >
 > #### Citirea A: plăcile se mișcau deja în Arhaic
 >
@@ -72,7 +72,7 @@ Lavele de la Isua au forme rotunjite, ca niște perne suprapuse, care se produc 
 >
 > #### Citirea B: scoarța era un capac imobil
 >
-> John Tarduno și colaboratorii au publicat în 2023 măsurători de paleointensitate, adică ale tăriei câmpului magnetic din trecut, pe boabe de zircon din cratoanele Kaapvaal și Yilgarn[^5]. Rezultatele indică latitudini apropiate între 3,9 și 3,4 miliarde de ani, ceea ce se potrivește cu o scoarță fără deplasări mari.
+> John Tarduno și colaboratorii au publicat în 2023 măsurători de paleointensitate, adică ale tăriei câmpului magnetic din trecut, pe boabe de zircon din cratoanele Kaapvaal și Yilgarn[^7]. Rezultatele indică latitudini apropiate între 3,9 și 3,4 miliarde de ani, ceea ce se potrivește cu o scoarță fără deplasări mari.
 >
 > Semnalul magnetic al boabelor transportate de ape este însă greu de atribuit momentului formării lor.
 >
@@ -126,4 +126,8 @@ _______________________________________________________________
 
 [^4]: Komatiitele sunt lave bogate în magneziu, caracteristice Arhaicului. Numele vine de la râul Komati, în Africa de Sud, unde au fost descrise pentru prima oară.
 
-[^5]: Zirconul este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.
+[^5]: Formațiunile de fier bandat sunt roci cu straturi subțiri alternante, bogate în fier și în silice, depuse mai ales între 3,0 și 1,8 miliarde de ani. Ele au nevoie de fier dizolvat în apă, deci de un ocean sărac în oxigen.
+
+[^6]: Carota este proba cilindrică de rocă, de gheață sau de sediment scoasă prin forare, care păstrează ordinea straturilor. Orientarea ei se notează la extragere, fiindcă de ea depind măsurătorile de direcție magnetică.
+
+[^7]: Zirconul este un mineral care cristalizează în roci vulcanice și primește uraniu în structura sa, respingând plumbul. Plumbul găsit în el mai târziu provine din dezintegrarea uraniului, așa că bobul funcționează ca un ceas.
