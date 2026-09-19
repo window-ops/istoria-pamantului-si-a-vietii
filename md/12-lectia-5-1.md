@@ -8,7 +8,7 @@ Lecția urmărește refacerea vieții după extincția permiană, apariția dino
 
 Triasicul ține de la 251,9 la 201,4 milioane de ani. În primele milioane de ani, mările sunt ocupate de puține specii răspândite pe suprafețe mari, semn al unui ecosistem sărăcit.
 
-Recifele lipsesc din straturi pentru câteva milioane de ani, iar cărbunele lipsește pentru un interval mai lung, fiindcă pădurile de mlaștină dispăruseră. Aceste absențe se citesc direct în succesiunea de roci.
+Recifele lipsesc din straturi pentru câteva milioane de ani, iar cărbunele lipsește pentru un interval mai lung, fiindcă pădurile de mlaștină dispăruseră.
 
 Pe uscat, printre puținele forme răspândite se află Lystrosaurus, o sinapsidă de mărimea unui porc[^1], ale cărei fosile apar pe mai multe continente de atunci.
 
